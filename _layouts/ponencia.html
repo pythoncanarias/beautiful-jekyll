@@ -1,0 +1,187 @@
+---
+layout: default
+---
+
+(esta presentacion hay que mejorarla)
+
+<h2 class="post_title">Charla: {{page.title}}</h2>
+<h3>{{page.subtitle}}</h3>
+
+{{content}}
+
+<div class="well">
+    <ul class="list-inline text-center footer-links">
+        {% if page.autor.foto %}
+        <li>
+            <img class="fa-stack" src="{{page.autor.foto}}"/>
+        </li>
+        {% endif %}
+        {{page.autor.nombre}}
+
+        {% if page.autor.facebook %}
+        <li>
+        <a href="https://www.facebook.com/{{ page.autor.facebook }}" title="Facebook">
+            <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+            </span>
+        </a>
+        </li>
+        {% endif %}
+        {% if page.autor.github %}
+        <li>
+        <a href="https://github.com/{{ page.autor.github }}" title="GitHub">
+            <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+            </span>
+        </a>
+        </li>
+        {% endif %}
+        {% if page.autor.twitter %}
+        <li>
+        <a href="https://twitter.com/{{ page.autor.twitter }}" title="Twitter">
+            <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+            </span>
+        </a>
+        </li>
+        {% endif %}
+    {% if page.autor.reddit %}
+        <li>
+        <a href="https://reddit.com/u/{{ page.autor.reddit }}" title="Reddit">
+            <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-reddit fa-stack-1x fa-inverse"></i>
+            </span>
+        </a>
+        </li>
+        {% endif %}
+    {% if page.autor.google-plus %}
+        <li>
+        <a href="https://plus.google.com/{{ page.autor.google-plus }}" title="Google+">
+            <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+            </span>
+        </a>
+        </li>
+        {% endif %}
+        {% if page.autor.email %}
+        <li>
+        <a href="mailto:{{ page.autor.email }}" title="Email me">
+            <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+            </span>
+        </a>
+        </li>
+        {% endif %}
+        {% if page.autor.linkedin %}
+        <li>
+        <a href="https://linkedin.com/in/{{ page.autor.linkedin }}" title="LinkedIn">
+            <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+            </span>
+        </a>
+        </li>
+        {% endif %}
+        {% if page.autor.xing %}
+        <li>
+        <a href="https://www.xing.com/profile/{{ page.autor.xing }}" title="Xing">
+            <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-xing fa-stack-1x fa-inverse"></i>
+            </span>
+        </a>
+        </li>
+        {% endif %}
+        {% if page.autor.stackoverflow %}
+        <li>
+        <a href="https://stackoverflow.com/users/{{ page.autor.stackoverflow }}" title="StackOverflow">
+            <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-stack-overflow fa-stack-1x fa-inverse"></i>
+            </span>
+        </a>
+        </li>
+        {% endif %}
+    {% if page.autor.snapchat %}
+        <li>
+        <a href="https://www.snapchat.com/add/{{ page.autor.snapchat }}" title="Snapchat">
+            <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-snapchat-ghost fa-stack-1x fa-inverse"></i>
+            </span>
+        </a>
+        </li>
+        {% endif %}
+    {% if page.autor.instagram %}
+        <li>
+        <a href="https://www.instagram.com/{{ page.autor.instagram }}" title="Instagram">
+            <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+            </span>
+        </a>
+        </li>
+        {% endif %}
+    {% if page.autor.youtube %}
+        <li>
+        <a href="https://www.youtube.com/{{ page.autor.youtube }}" title="YouTube">
+            <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
+            </span>
+        </a>
+        </li>
+        {% endif %}
+    {% if page.autor.spotify %}
+        <li>
+        <a href="https://open.spotify.com/user/{{ page.autor.spotify }}" title="Spotify">
+            <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-spotify fa-stack-1x fa-inverse"></i>
+            </span>
+        </a>
+        </li>
+    {% endif %}
+    {% if page.autor.telegram %}
+        <li>
+        <a href="http://telegram.me/{{ page.autor.telegram}}" title="Telegram">
+            <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-paper-plane fa-stack-1x fa-inverse"></i>
+            </span>
+        </a>
+        </li>
+    {% endif %}
+    {% if page.autor.telephone %}
+        <li>
+        <a href="tel:{{ page.autor.telephone }}" title="Phone">
+            <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-phone fa-stack-1x fa-inverse"></i>
+            </span>
+        </a>
+        </li>
+    {% endif %}
+        {% if site.footer-links-active.rss %}
+        <li>
+        <a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
+            <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+            </span>
+        </a>
+        </li>
+        {% endif %}
+        {% if page.autor.bio %}
+        <strong>Biografía:</strong> {{page.autor.bio}}
+        {% endif %}
+    </ul>
+</div>
+
+<ul class="pager"><li class="previous"><a href="../../programa">Volver al programa</a></li></ul>

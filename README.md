@@ -17,6 +17,11 @@ Si tiene la v2, entonces el camino es diferente:
 - bundle install
 - bundle exec jekyll
 
-Para ejecutar un servidor web para ver la página, ejecuta:
+Para ejecutar un servidor web para servir la página y poderla ver, ejecuta el comando correspondiente, y visualiza http://localhost:4000/
 
 - jekyll serve -w
+- bundle exec jekyll serve -w
+
+### Recomendaciones de uso
+
+- Los posts del blog poner los markdown en _posts y las imagenes en img/posts/, con el mismo nombre ambos ficheros variando la extension.
