@@ -1,4 +1,4 @@
-### Web [pythoncanarias.es](http://www.pythoncanarias.es/) en marcha gracias a..
+### Web [pythoncanarias.es](http://pythoncanarias.es/) en marcha gracias a..
 
 - [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) is a ready-to-use template to help you create an awesome website quickly.
 - [Jekyll](http://jekyllrb.com/) Transform your plain text into static websites and blogs.
@@ -28,6 +28,6 @@ Para ejecutar un servidor web para servir la página y poderla ver, ejecuta el c
 
 ### Recomendaciones de uso
 
-- Los cambios del git se reflejan instantáneamente en [http://www.pythoncanarias.es/](http://www.pythoncanarias.es/).
+- Los cambios del git se reflejan instantáneamente en [http://pythoncanarias.es/](http://pythoncanarias.es/).
 - Para las charlas es necesario poner los metadatos+texto en `pyday-2017/ponencias/` (hay un ejemplo), y las fotos de los ponentes en `img/pyday-2017/ponentes/`. Si no tienen foto, se puede poner la foto del ninja. El indice que esta en `pyday-2017/programa.md` hay que actualizarlo manualmente.
 - Los posts del blog poner los markdown en `_posts` y las imagenes en `img/posts/`, con el mismo nombre ambos ficheros variando la extension.
