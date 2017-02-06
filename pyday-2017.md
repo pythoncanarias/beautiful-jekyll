@@ -14,6 +14,8 @@ patrocinadores:
   logo: /img/logos/dargo.svg
 - url: http://galotecnia.com/
   logo: /img/logos/galotecnia.svg
+- url: http://kreitek.org/
+  logo: /img/logos/kreitek.svg
   
 ---
 
