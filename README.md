@@ -8,14 +8,18 @@
 
 Esta plantilla necesita jekyll v3. Si tu distro tiene la v3, entonces instalalo:
 
-- `apt-get install jekyll`
-- `jekyll`
+```
+apt-get install jekyll
+jekyll
+```
 
 Si tiene la v2, entonces el camino es diferente:
 
-- `apt-get install bundler`
-- `bundle install`
-- `bundle exec jekyll`
+```
+apt-get install bundler`
+bundle install
+bundle exec jekyll
+```
 
 Para ejecutar un servidor web para servir la página y poderla ver, ejecuta el comando correspondiente, y visualiza [http://localhost:4000/](http://localhost:4000/)
 
