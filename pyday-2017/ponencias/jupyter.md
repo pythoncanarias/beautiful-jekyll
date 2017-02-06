@@ -12,7 +12,7 @@ autor:
   github: euribates
   twitter: jileon
   linkedin: jileon
-  stackoverflow: euribates
+  stackoverflow: 117308/euribates
   youtube: jileon
   telegram: euribates
 ---
