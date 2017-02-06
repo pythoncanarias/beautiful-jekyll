@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="659.45483"
-   height="273.51834"
+   height="329.51834"
    id="svg2031"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="pythoncanarias.svg">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,21 +37,21 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1362"
-     inkscape:window-height="728"
+     inkscape:window-width="1436"
+     inkscape:window-height="861"
      id="namedview26"
      showgrid="false"
      inkscape:zoom="0.78615385"
-     inkscape:cx="329.7274"
-     inkscape:cy="109.47181"
-     inkscape:window-x="0"
+     inkscape:cx="-22.620935"
+     inkscape:cy="137.47182"
+     inkscape:window-x="1366"
      inkscape:window-y="18"
      inkscape:window-maximized="0"
      inkscape:current-layer="g2574"
-     fit-margin-top="15"
+     fit-margin-top="43"
      fit-margin-left="15"
      fit-margin-right="15"
-     fit-margin-bottom="15" />
+     fit-margin-bottom="43" />
   <defs
      id="defs2033">
     <linearGradient
@@ -95,7 +95,7 @@
   </defs>
   <g
      id="layer1"
-     transform="translate(4.7274047,4.946762)">
+     transform="translate(4.7274047,32.946762)">
     <g
        transform="matrix(1.200851,0,0,1.200851,-25.00003,33.18467)"
        id="g1858">
