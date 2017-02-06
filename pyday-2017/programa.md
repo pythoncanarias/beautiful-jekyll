@@ -16,7 +16,7 @@ subtitle: "Sábado, 11 de marzo de 2017, Aula CajaCanarias Anchieta ULL."
 - XX:00 [instalación de python](../ponencias/ejemplo)
 - XX:00 [primeros pasos en el lenguaje python](../ponencias/ejemplo)
 - XX:00 coffee break
-- XX:00 [instalación de python](../ponencias/ejemplo)
+- XX:00 [Introducción a Jupyter](../ponencias/jupyter)
 - XX:00 [primeros pasos en el lenguaje python](../ponencias/ejemplo)
 
 # Sesión avanzada

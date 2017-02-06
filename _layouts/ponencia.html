@@ -9,6 +9,10 @@ layout: default
 
 {{content}}
 
+{% if page.autor.bio %}
+<div class="well"><strong>Biografía:</strong> {{page.autor.bio}}</div>
+    {% endif %}
+
 <div class="well">
     <ul class="list-inline text-center footer-links">
         {% if page.autor.foto %}
@@ -177,9 +181,6 @@ layout: default
             </span>
         </a>
         </li>
-        {% endif %}
-        {% if page.autor.bio %}
-        <strong>Biografía:</strong> {{page.autor.bio}}
         {% endif %}
     </ul>
 </div>
