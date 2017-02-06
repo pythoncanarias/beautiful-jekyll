@@ -2,7 +2,7 @@
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
-url: "http://www.pythoncanarias.es"
+url: "http://pythoncanarias.es"
 baseurl: ""
 
 # Name of website
