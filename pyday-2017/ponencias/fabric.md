@@ -1,0 +1,21 @@
+---
+layout: ponencia
+title: Fabric, introducción
+subtitle: "Tareas y despliegues"
+autor:
+  nombre: Héctor Alvarez
+  foto: /img/pyday-2017/ponentes/monobot.png
+  bio:
+    Arquitecto con años de experiencia que fue seducido por el lado oscuro.
+    Aunque de niño trasteaba con basic en un spectrum+ no fue hasta 2009 cuando de forma autodidacta y poco a poco aprendió programación, Python para él fue como pasar a través del espejo, todo era nuevo, mágico y excitante.
+    Actualmente trabaja como desarrollador Backend en Cabaana.
+  facebook: nombre
+  github: monobot
+  twitter: monobotblog
+  email: monobot.soft@gmail.com
+  linkedin: hector-alvarez
+---
+## fabric
+
+Es un framework ligero para despliegues y tareas
+En muchas ocasiones te encuentras que necesitas ejecutar comandos unos tras otros en una o varias máquinas, ésto resulta tedioso como poco, para ello se recomienda la utilización de una librería como **fabric** de ésta forma te permite automatizar y evitar errores, al ser en puro python tienes a tu disposición todo el ecosistema de python.
