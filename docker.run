@@ -1,3 +1,0 @@
-#!/bin/bash
-
-docker run -ti -p 4000:4000 -v $PWD:/pycan_web --name pycan_web pythoncanarias
