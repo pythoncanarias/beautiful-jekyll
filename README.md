@@ -26,6 +26,18 @@ Para ejecutar un servidor web para servir la página y poderla ver, ejecuta el c
 - `jekyll serve -w`
 - `bundle exec jekyll serve -w`
 
+#### Instalación usando Docker
+
+En primer lugar habrá que tener instalado [Docker](https://www.docker.com/products/docker) en nuestro sistema.
+
+A continuación abrir un terminal y cambiar al directorio del proyecto. Ejecutar el *makefile* de la siguiente manera:
+
+```console
+$> make
+```
+
+Ya sólo queda acceder a [http://localhost:4000/](http://localhost:4000/)
+
 ### Recomendaciones de uso
 
 - Los cambios del git se reflejan instantáneamente en [http://pythoncanarias.es/](http://pythoncanarias.es/).
