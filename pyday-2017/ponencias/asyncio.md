@@ -6,6 +6,8 @@ autor:
   nombre: Sergio Medina
   foto: /img/pyday-2017/ponentes/smedina.jpg
   linkedin: sergiomed
+  github: lumasepa
+
 ---
 
 Empezaremos con una introducción diferenciando concurrencia de paralelismo,
