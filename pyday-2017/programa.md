@@ -4,32 +4,42 @@ title: Programa pyday tenerife
 subtitle: "Sábado, 11 de marzo de 2017, Aula CajaCanarias Anchieta ULL."
 ---
 
-# Sesión de iniciación
+# Track de iniciación
 
-- XX:00 apertura
-- XX:00 [instalación de python](../ponencias/ejemplo)
-- XX:00 [primeros pasos en el lenguaje python](../ponencias/ejemplo)
-- XX:00 coffee break
-- XX:00 [instalación de python](../ponencias/ejemplo)
-- XX:00 [primeros pasos en el lenguaje python](../ponencias/ejemplo)
-- XX:00 almuerzo
-- XX:00 [instalación de python](../ponencias/ejemplo)
-- XX:00 [primeros pasos en el lenguaje python](../ponencias/ejemplo)
-- XX:00 coffee break
-- XX:00 [instalación de python](../ponencias/ejemplo)
-- XX:00 [primeros pasos en el lenguaje python](../ponencias/ejemplo)
+- 10:00 - 11:50 [Taller de introducción a Python](../ponencias/ejemplo)
 
-# Sesión avanzada
+- 11:50 - 12:10 **coffee break**
 
-- XX:00 apertura
-- XX:00 [charla 1](../ponencias/ejemplo)
-- XX:00 [charla 2](../ponencias/ejemplo)
-- XX:00 coffee break
-- XX:00 [fabric](../ponencias/fabric)
-- XX:00 [jupyter](../ponencias/jupyter)
-- XX:00 almuerzo
-- XX:00 [Vision artificial](../ponencias/vision-artificial)
-- XX:00 [charla 6](../ponencias/ejemplo)
-- XX:00 coffee break
-- XX:00 [charla 7](../ponencias/ejemplo)
-- XX:00 [charla 8](../ponencias/ejemplo)
+- 12:10 - 14:00 [Taller de introducción a Django](../ponencias/ejemplo)
+
+- 14:00 - 16:00 **Pausa para almorzar**
+
+- 16:00 - 16:55 [Introducción a Jupyter Notebook](../ponencias/jupyter)
+- 17:00 - 17:50 [Mátemáticas y Python](../ponencias/ejemplo)
+
+- 17:50 - 18:10 **coffee break**
+
+- 18:10 - 18:55 [Raspberry PI](../ponencias/ejemplo)
+- 19:00 - 19:55 [Micropython](../ponencias/ejemplo)
+
+# Track avanzado
+
+- 10:00 - 10:55 [Rendimiento y consumo energético](../ponencias/ejemplo)
+- 11:00 - 11:50 [Crea tu propio BOT de Telegram](../ponencias/ejemplo)
+
+- 11:50 - 12:10 *coffee break*
+
+- 12:10 - 13:05 [Control de cámaras](../ponencias/ejemplo)
+- 13:10 - 14:00 [Control de servidores con Fabric](../ponencias/fabric)
+
+- 14:00 - 16:00 *Pausa para almorzar*
+
+- 16:00 - 16:55 [IO Asíncrono con Python](../ponencias/asyncio)
+- 17:00 - 17:50 [Crear una API REst con Flask](../ponencias/ejemplo)
+
+- 17:50 - 18:10 *coffee break*
+
+- 18:10 - 18:55 [Vision artificial](../ponencias/vision-artificial)
+- 19:00 - 19:55 [Programación de videojuegos con Godot Engine](../ponencias/godot_engine)
+
+
