@@ -14,9 +14,9 @@ description: Comunidad de entusiastas del lenguaje Python.
 # List of links in the navigation bar
 navbar-links:
   PyDay Tenerife 2017:
-    - Información: "pyday-2017"
-    - Programa: "pyday-2017/programa"
-    - FAQ: "pyday-2017/faq"
+    - Información: "pyday"
+    - Programa: "pyday/programa"
+    - FAQ: "pyday/faq"
     - ¿Quieres patrocinarnos?: "https://github.com/pythoncanarias/docs/raw/master/carteleria/brochure_sponsors.pdf"
     - Inscripción: "http://todavia.no.com/"
   Sobre nosotros: "nosotros"

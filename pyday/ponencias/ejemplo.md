@@ -38,6 +38,6 @@ fuera necesario. Recuerda que las imagenes son como los enlaces
 ![titulo](/img/avatar-icon.png) pero con !.
 
 Este fichero grabalo en la carpeta
-pyday-2017/ponencias/el-nombre-de-tu-charla.md y edita tambien el
-pyday-2017/programa.md para reflejarla ahi e ir quitando los ejemplos (esto se
+pyday/ponencias/el-nombre-de-tu-charla.md y edita tambien el
+pyday/programa.md para reflejarla ahi e ir quitando los ejemplos (esto se
 puede hacer automatico pero de momento lo haremos manual).
