@@ -4,7 +4,7 @@ title: La necesidad de los ejemplos
 subtitle: "Como ayudar a que no vayan a ciegas"
 autor:
   nombre: Eric Idle
-  foto: /img/pyday-2017/ponentes/unknown.png
+  foto: /img/pyday/ponentes/unknown.png
   bio:
     Es un resucitador de loros. Es un discutidor no negador. Es un usuario de mesas de escritorio en sitios poco convencionales.
     Se puede poner como los demás en una linea, o así indentada en varias.

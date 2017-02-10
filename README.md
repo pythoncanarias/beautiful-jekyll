@@ -41,5 +41,5 @@ Ya sólo queda acceder a [http://localhost:4000/](http://localhost:4000/)
 ### Recomendaciones de uso
 
 - Los cambios del git se reflejan instantáneamente en [http://pythoncanarias.es/](http://pythoncanarias.es/).
-- Para las charlas es necesario poner los metadatos+texto en `pyday-2017/ponencias/` (hay un ejemplo), y las fotos de los ponentes en `img/pyday-2017/ponentes/`. Si no tienen foto, se puede poner la foto del ninja. El indice que esta en `pyday-2017/programa.md` hay que actualizarlo manualmente.
+- Para las charlas es necesario poner los metadatos+texto en `pyday/ponencias/` (hay un ejemplo), y las fotos de los ponentes en `img/pyday/ponentes/`. Si no tienen foto, se puede poner la foto del ninja. El indice que esta en `pyday/programa.md` hay que actualizarlo manualmente.
 - Los posts del blog poner los markdown en `_posts` y las imagenes en `img/posts/`, con el mismo nombre ambos ficheros variando la extension.

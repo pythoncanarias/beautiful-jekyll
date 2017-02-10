@@ -4,7 +4,7 @@ title: Desarrollo de videojueogs con Godot Engine
 subtitle: "Godot es un motor de videojuegos 2D y 3D multiplataforma"
 autor:
   nombre: David Vargas
-  foto: /img/pyday-2017/ponentes/unknown.png
+  foto: /img/pyday/ponentes/unknown.png
   bio:
     David Vargas estudió Ingeniería Informática en la Universidad
     de Las Palmas de Gran Canaria. Se siguió formando tras terminar 

@@ -4,7 +4,7 @@ title: Jupyter Notebook
 subtitle: "La nueva forma de publicar ciencia en el siglo XXI"
 autor:
   nombre: Juan Ignacio Rodríguez de León
-  foto: /img/pyday-2017/ponentes/jileon.png
+  foto: /img/pyday/ponentes/jileon.png
   bio: Juan Ignacio Rodríguez de León es ingeniero en informática por la 
        Universidad de Las Palmas de Gran Canaria, y actualmente trabaja
        como analista informático en el Parlamento de Canarias.

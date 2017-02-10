@@ -4,7 +4,7 @@ title: I/O asíncrono en Python
 subtitle: "Código concurrente sin multithreads"
 autor:
   nombre: Sergio Medina
-  foto: /img/pyday-2017/ponentes/smedina.jpg
+  foto: /img/pyday/ponentes/smedina.jpg
   linkedin: sergiomed
   github: lumasepa
 
