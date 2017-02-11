@@ -46,23 +46,6 @@ Habrán dos sesiones en paralelo:
 - la sesión avanzada, que tendrá una agenda de cursos especializados de 40-50 minutos
 - la sesión de iniciación, donde se realizarán sesiones de instalación y de primeros pasos, varías durante el día
 
-# ¿Puede asistir cualquiera?
-
-Estamos promocionando este evento por Institutos y Ciclos Formativos, en las
-distintas facultades de la Universidad de La Laguna, y por empresas. El único
-requisito es que estés interesado en aprender el lenguaje python, o en
-profundizar en el.
-
-# Soy estudiante universitario. ¿Puedo obtener créditos de libre elección?
-
-La sesión de los cursos están reconocidos para la obtención de 1 crédito ECTS.
-La entidad que realiza el reconocimiento es la [Oficina del Software
-Libre](http://www.osl.ull.es), que forma parte del **Vicerrectorado de TIC y
-Servicios Universitarios**.
-
-En breve, ampliaremos esta información con los detalles para su solicitud
-y obtención.
-
 {% include organizadores.html %}
 {% include patrocinadores.html %}
 

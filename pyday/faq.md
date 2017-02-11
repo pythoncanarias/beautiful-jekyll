@@ -4,14 +4,18 @@ title: FAQ pyday tenerife
 subtitle: "Preguntas frecuentes"
 ---
 
-# ¿Qué es esto?
+# ¿Puede asistir cualquiera?
 
-Si hubiera que poner una sección de **preguntas frecuentes**, este sería un buen sitio.
+Estamos promocionando este evento por institutos con ciclos de formación profesional, en las distintas facultades de la Universidad de La Laguna, y por empresas. El único requisito es que estés interesado en aprender el lenguaje python, o en profundizar en él.
 
-# ¿Qué es una pregunta frecuente?
+# Soy estudiante universitario. ¿Puedo obtener créditos de libre elección?
 
-Esa pregunta se sale del ámbito de las preguntas frecuentes al ser muy infrecuente.
+La sesión de los cursos están reconocidos para la obtención de **1 crédito ECTS**.
+La entidad que realiza el reconocimiento es la [Oficina del Software
+Libre](http://www.osl.ull.es), que forma parte del **Vicerrectorado de TIC y
+Servicios Universitarios**.
 
-# ¿Porqué dices FAQ cuando quieres decir pregunta frecuente?
+Para poder certificar y obtener el crédito ECTS, será necesario que los asistentes hagan lo siguiente:
 
-Igual que digo **python** y no digo **pitón**. La costumbre.
+- **Asistir** presencialmente a **8h** del evento (se firmará la asistencia en cada charla/taller).
+- **Entregar y aprobar**, al menos, **3 pruebas** sobre 3 charlas/talleres, que serán propuestas por el ponente al finalizar cada sesión. En su momento se explicará cuándo, cómo y dónde entregar dichas pruebas.
