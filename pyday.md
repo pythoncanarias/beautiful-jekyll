@@ -6,7 +6,7 @@ organizadores:
 - url: http://www.ull.es/
   logo: /img/logos/ull.svg
 - url: http://pythoncanarias.es/
-  logo: /img/logos/pythoncanarias.svg
+  logo: /img/logos/pythoncanarias.png
 patrocinadores:
 - url: http://cabaana.com/
   logo: /img/logos/cabaana.svg
