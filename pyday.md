@@ -63,5 +63,6 @@ Servicios Universitarios**.
 En breve, ampliaremos esta información con los detalles para su solicitud
 y obtención.
 
-{% include organizadores.html lista=organizadores %}
+{% include organizadores.html %}
+{% include patrocinadores.html %}
 

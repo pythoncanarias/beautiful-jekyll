@@ -8,18 +8,3 @@
         {% endfor %}
     </div>
 </div>
-
-<h2>Patrocinadores</h2>
-<div class="container-fluid">
-    <div class="row">
-        {% for item in page.patrocinadores %}
-            <div class="col-md-4 text-center">
-                <a href="{{item.url}}"><img class="img-responsive" src="{{item.logo}}" /></a> {{item.nombre}}
-            </div>
-        {% endfor %}
-    </div>
-</div>
-
-<div class="text-center">
-    <a class="btn btn-success" title="Añadir nuevo patrocinador" href="http://github.com/pythoncanarias/docs/raw/master/carteleria/brochure_sponsors.pdf"><i class="fa fa-plus"></i> ¿Quieres patrocinarnos?</a>
-</div>
