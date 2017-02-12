@@ -12,6 +12,8 @@ autor:
     y empezó a dar clase en FP. A lo largo de los años ha colaborado 
     con proyectos de software libre, lo que le ha permitido adquirir
     nuevos conocimientos.
+  linkedin: david-vargas-07879a62
+  twitter: dvarrui
 ---
 **Godot Engine** es un motor de juegos 2D y 3D, multiplataforma y de código
 abierto ([Licencia MIT](https://es.wikipedia.org/wiki/Licencia_MIT)) y tiene su
