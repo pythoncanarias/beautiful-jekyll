@@ -2,21 +2,6 @@
 layout: page
 title: pyday tenerife
 subtitle: "11 de marzo de 2017: código, charlas y comunidad"
-organizadores:
-- url: http://www.ull.es/
-  logo: /img/logos/ull.svg
-- url: http://pythoncanarias.es/
-  logo: /img/logos/pythoncanarias.png
-patrocinadores:
-- url: http://cabaana.com/
-  logo: /img/logos/cabaana.svg
-- url: http://dargo.net/
-  logo: /img/logos/dargo.svg
-- url: http://galotecnia.com/
-  logo: /img/logos/galotecnia.svg
-- url: http://kreitek.org/
-  logo: /img/logos/kreitek.svg
-  
 ---
 
 # ¿Qué es un pyday?

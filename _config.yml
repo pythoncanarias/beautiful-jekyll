@@ -190,3 +190,19 @@ gems:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
+pyday2017:
+  organizadores:
+    - url: http://www.ull.es/
+      logo: /img/logos/ull.svg
+    - url: http://pythoncanarias.es/
+      logo: /img/logos/pythoncanarias.png
+  patrocinadores:
+    - url: http://cabaana.com/
+      logo: /img/logos/cabaana.svg
+    - url: http://dargo.net/
+      logo: /img/logos/dargo.svg
+    - url: http://galotecnia.com/
+      logo: /img/logos/galotecnia.svg
+    - url: http://kreitek.org/
+      logo: /img/logos/kreitek.svg

@@ -1,7 +1,7 @@
 <h2>Organizadores</h2>
 <div class="container-fluid">
     <div class="row">
-        {% for item in page.organizadores %}
+        {% for item in site.pyday2017.organizadores %}
             <div class="col-md-6 text-center">
                 <a href="{{item.url}}"><img class="img-responsive" src="{{item.logo}}" /></a> {{item.nombre}}
             </div>
