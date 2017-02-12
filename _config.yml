@@ -16,6 +16,7 @@ navbar-links:
   PyDay Tenerife 2017:
     - Información: "pyday"
     - Programa: "pyday/programa"
+    - ¿Cómo llegar?: "pyday/mapa"
     - FAQ: "pyday/faq"
     - ¿Quieres patrocinarnos?: "https://github.com/pythoncanarias/docs/raw/master/carteleria/brochure_sponsors.pdf"
     - Inscripción: "http://todavia.no.com/"
