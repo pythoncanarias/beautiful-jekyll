@@ -32,6 +32,23 @@ No tienen porqué ser interactivas. Interactivos son los talleres.
 
 Pásanos la presentación cuando la tengas para poder colgarla el día del evento.
 
+## Evaluación
+
+Los alumnos universitarios que opten a un crédito ECTS deberán hacer los
+ejercicios de tres de las charlas a las que vayan. El listado con los
+ejercicios se dará en la última hora de clase, por tanto, no es necesario que
+lo adelantes en tu ponencia.
+
+Por esta razón, junto con tu charla, tienes que pasarnos uno (o varios)
+ejercicios para dicha evaluación. Unos días despues del curso te reenviaremos
+lo que nos han enviado los alumnos para que los corrijas.
+
+Piensa en un ejercicio que todos tus alumnos puedan realizar en 1-2 horas. Ten
+en cuenta que habrá diferentes perfiles de usuarios, así que tal vez te
+interesa que el ejercicio fuese progresivo. De igual manera, elige un ejercicio
+que te facilite la tarea de corregir, para molestarte lo menos posible cuando
+toque. 
+
 ## Cuándo y qué llevar
 
 Intenta estar como mínimo 5 minutos antes de la charla, cuando se despida el
