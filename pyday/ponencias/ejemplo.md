@@ -34,8 +34,7 @@ salvo que las separes por doble enter.
 
 Estaría bien que pusieras, ademas del resumen de la ponencia, si fuera
 necesario saber algo previo. O enlace a la documentacion, o al software que
-fuera necesario. Recuerda que las imagenes son como los enlaces
-![titulo](/img/avatar-icon.png) pero con !.
+fuera necesario. 
 
 Este fichero grabalo en la carpeta
 pyday/ponencias/el-nombre-de-tu-charla.md y edita tambien el
