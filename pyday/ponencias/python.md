@@ -7,6 +7,7 @@ layout: ponencia
 autor:
   nombre: Aun por determinar
 ---
+![I Love Python](/img/pyday/python.png){:class="img-responsive pull-right"}
 
 **Python** es un lenguaje de programación general de alto nivel, independiente
 de la plataforma; capaz, por tanto, de realizar cualquier tipo de tarea, desde
