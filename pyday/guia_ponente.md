@@ -9,6 +9,12 @@ subtitle: "¿Qué tengo que hacer si soy ponente?"
 Localiza tu charla en el [programa](programa). Si no está, ponte en contacto
 con la organización. Si está, verifica que puedes en el horario asignado.
 
+Tambien comprueba que el texto, tu biografía, tu foto y tus redes sociales
+son las que quieres que sean. Si no, ponte en contacto con nosotros. El código
+fuente de esta web está en [github/pythoncanarias](https://github.com/pythoncanarias/pythoncanarias_web/tree/master/pyday/ponencias).
+Hay un ejemplo.md con todo lo que permitimos. Modifíca tu charla a tu gusto y pásanoslo.
+
+
 ## Estar localizable
 
 Asegúrate que algún organizador tiene tu telegram o email. Puedes contactar con
