@@ -22,7 +22,7 @@ Universidad de La Laguna. Si no sabes donde es, [echa un vistazo al mapa](mapa).
 Habrán dos sesiones en paralelo:
 
 - los **talleres de iniciación**, donde se realizarán sesiones de instalación y de primeros pasos en varias tecnologías
-- los **charlas avanzadas**, que tendrá una agenda de charlas especializados de 40-50 minutos
+- las **charlas avanzadas**, que tendrán una agenda de charlas especializadas de 40-50 minutos
 
 Más detalles: [ver programa completo](programa)
 
