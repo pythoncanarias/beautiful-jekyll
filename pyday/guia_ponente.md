@@ -6,7 +6,7 @@ subtitle: "¿Qué tengo que hacer si soy ponente?"
 
 ## Identificar mi charla y mi horario
 
-Localiza tu charla en el [programa](programa). Si no está, ponte en contacto
+Localiza tu charla en el [programa](/pyday/programa). Si no está, ponte en contacto
 con la organización. Si está, verifica que puedes en el horario asignado.
 
 También comprueba que el texto, tu biografía, tu foto y tus redes sociales
