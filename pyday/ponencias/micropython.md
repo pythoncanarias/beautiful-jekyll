@@ -1,4 +1,5 @@
 ---
+permalink: "/pyday/ponencias/micropython/"
 layout: ponencia
 title: MicroPython
 subtitle: "El sílice y la serpiente"

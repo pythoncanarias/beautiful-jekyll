@@ -1,9 +1,9 @@
 ---
-layout: ponencia
+permalink: "/pyday/ponencias/python/"
 title: Introducción a Python
-permalink: "/pyday/programa/python"
 subtitle: Python es un lenguaje de programación que permite
-    desarrollo rápido e integraciñón de sistemas.
+    desarrollo rápido e integración de sistemas.
+layout: ponencia
 autor:
   nombre: Aun por determinar
 ---
