@@ -1,8 +1,10 @@
 ---
+permalink: "/pyday/ponencias/control_camaras/"
 layout: ponencia
 title: Control de cámaras
 autor:
   nombre: Sergio Bonaque González
+  foto: /img/pyday/ponentes/sergio-bonaque-gonzalez.png
   linkedin: sergiobonaque
 ---
 

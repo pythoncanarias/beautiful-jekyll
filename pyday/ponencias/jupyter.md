@@ -1,4 +1,5 @@
 ---
+permalink: "/pyday/ponencias/jupyter/"
 layout: ponencia
 title: Jupyter Notebook
 subtitle: "La nueva forma de publicar ciencia en el siglo XXI"

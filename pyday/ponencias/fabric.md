@@ -1,4 +1,5 @@
 ---
+permalink: "/pyday/ponencias/fabric/"
 layout: ponencia
 title: Fabric, introducción
 subtitle: "Tareas y despliegues"

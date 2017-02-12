@@ -1,4 +1,5 @@
 ---
+permalink: "/pyday/ponencias/asyncio/"
 layout: ponencia
 title: I/O asíncrono en Python
 subtitle: "Código concurrente sin multithreads"
