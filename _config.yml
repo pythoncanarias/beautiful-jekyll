@@ -201,9 +201,15 @@ pyday2017:
   patrocinadores:
     - url: http://cabaana.com/
       logo: /img/logos/cabaana.svg
+    - url: http://www.coitic.es/
+      logo: /img/logos/coitic.jpg
     - url: http://dargo.net/
       logo: /img/logos/dargo.svg
     - url: http://galotecnia.com/
       logo: /img/logos/galotecnia.svg
     - url: http://kreitek.org/
       logo: /img/logos/kreitek.svg
+    - url: http://es.python.org/
+      logo: /img/logos/pythonespana.svg
+    - url: http://www.mutuatfe.es/
+      logo: /img/logos/mutuatfe.jpg
