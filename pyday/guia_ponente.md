@@ -6,14 +6,13 @@ subtitle: "¿Qué tengo que hacer si soy ponente?"
 
 ## Identificar mi charla y mi horario
 
-Localiza tu charla en el [programa](programa). Si no está, ponte en contacto
+Localiza tu charla en el [programa](/pyday/programa). Si no está, ponte en contacto
 con la organización. Si está, verifica que puedes en el horario asignado.
 
-Tambien comprueba que el texto, tu biografía, tu foto y tus redes sociales
+También comprueba que el texto, tu biografía, tu foto y tus redes sociales
 son las que quieres que sean. Si no, ponte en contacto con nosotros. El código
 fuente de esta web está en [github/pythoncanarias](https://github.com/pythoncanarias/pythoncanarias_web/tree/master/pyday/ponencias).
 Hay un ejemplo.md con todo lo que permitimos. Modifíca tu charla a tu gusto y pásanoslo.
-
 
 ## Estar localizable
 
@@ -28,9 +27,28 @@ horario porque son muchas charlas y no podemos encadenar retrasos. Posiblemente
 pongamos un reloj con cuenta atrás para que lo veas, y estaremos por allí para
 recordártelo.
 
-No tienen porqué ser interactivas. Interactivos son los talleres.
+No tienen porqué ser interactivas. Interactivos son los talleres. Aunque es
+posible que la gente tenga un ordenador o su propio portatil.
 
 Pásanos la presentación cuando la tengas para poder colgarla el día del evento.
+Indícanos si te es problema que la colguemos antes.
+
+## Evaluación
+
+Los alumnos universitarios que opten a un crédito ECTS deberán hacer los
+ejercicios de tres de las charlas a las que vayan. El listado con los
+ejercicios se dará en la última hora de clase, por tanto, no es necesario que
+lo adelantes en tu ponencia.
+
+Por esta razón, junto con tu charla, tienes que pasarnos uno (o varios)
+ejercicios para dicha evaluación. Unos días despues del curso te reenviaremos
+lo que nos han enviado los alumnos para que los corrijas.
+
+Piensa en un ejercicio que todos tus alumnos puedan realizar en 1-2 horas. Ten
+en cuenta que habrá diferentes perfiles de usuarios, así que tal vez te
+interesa que el ejercicio fuese de dificultad progresiva. De igual manera,
+elige un ejercicio que te facilite la tarea de corregir, para molestarte lo
+menos posible cuando toque. 
 
 ## Cuándo y qué llevar
 

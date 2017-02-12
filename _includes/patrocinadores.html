@@ -1,12 +1,17 @@
 <h2>Patrocinadores</h2>
 <div class="container-fluid">
-    <div class="row">
-        {% for item in site.pyday2017.patrocinadores %}
+    {% for item in site.pyday2017.patrocinadores %}
+        {% assign current = forloop.index0|modulo:3 %}
+        {% if current == 0 %}
+        <div class="row">
+        {% endif %}
             <div class="col-md-4 text-center">
                 <a href="{{item.url}}"><img class="img-responsive" src="{{item.logo}}" /></a> {{item.nombre}}
             </div>
-        {% endfor %}
-    </div>
+        {% if current == 2  or forloop.last %}
+        </div>
+        {% endif %}
+    {% endfor %}
 </div>
 
 <div class="text-center">
