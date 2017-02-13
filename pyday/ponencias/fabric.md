@@ -1,8 +1,8 @@
 ---
 permalink: "/pyday/ponencias/fabric/"
-layout: ponencia
 title: Fabric
 subtitle: "Tareas y despliegues"
+layout: ponencia
 autor:
   nombre: Héctor Alvarez
   foto: /img/pyday/ponentes/monobot.jpg
@@ -16,7 +16,7 @@ autor:
   linkedin: hector-alvarez
 ---
 
-**Fabric** es un framework ligero para **despliegues y tareas programadas**
+Fabric es un framework ligero para **despliegues y tareas programadas**
 
 ![logo](/img/pyday/fabric.png){:class="img-responsive img-circle pull-right"}
 
