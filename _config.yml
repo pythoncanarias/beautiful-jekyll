@@ -205,6 +205,8 @@ pyday2017:
       logo: /img/logos/galotecnia.svg
     - url: http://kreitek.org/
       logo: /img/logos/kreitek.svg
+    - url: http://es.python.org/
+      logo: /img/logos/pythonespana.svg
   patrocinadores_oro:
     - url: http://cabaana.com/
       logo: /img/logos/cabaana.svg
@@ -212,5 +214,3 @@ pyday2017:
       logo: /img/logos/coitic.jpg
     - url: http://dargo.net/
       logo: /img/logos/dargo.svg
-    - url: http://es.python.org/
-      logo: /img/logos/pythonespana.svg
