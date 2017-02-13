@@ -1,21 +1,6 @@
 <div class="container-fluid">
     <h2 class="text-center">Patrocinadores <span class="label label-warning">Oro</span></h2>
     <br>
-    {% for item in site.pyday2017.patrocinadores_oro %}
-        {% assign current = forloop.index0|modulo:3 %}
-        {% if current == 0 %}
-        <div class="row">
-        {% endif %}
-            <div class="col-md-4 text-center">
-                <a href="{{item.url}}"><img class="img-responsive" src="{{item.logo}}" /></a> {{item.nombre}}
-            </div>
-        {% if current == 2  or forloop.last %}
-        </div>
-        {% endif %}
-    {% endfor %}
-    <br><br>
-    <h2 class="text-center">Patrocinadores <span class="label label-default">Platino</span></h2>
-    <br>
     {% for item in site.pyday2017.patrocinadores_platino %}
         {% assign current = forloop.index0|modulo:2 %}
         {% if current == 0 %}
@@ -24,7 +9,22 @@
             <div class="col-md-6 text-center">
                 <a href="{{item.url}}"><img class="img-responsive" src="{{item.logo}}" /></a> {{item.nombre}}
             </div>
-        {% if current == 1  or forloop.last %}
+        {% if current == 1 or forloop.last %}
+        </div>
+        {% endif %}
+    {% endfor %}
+    <br><br>
+    <h2 class="text-center">Patrocinadores <span class="label label-default">Platino</span></h2>
+    <br>
+    {% for item in site.pyday2017.patrocinadores_oro %}
+        {% assign current = forloop.index0|modulo:3 %}
+        {% if current == 0 %}
+        <div class="row">
+        {% endif %}
+            <div class="col-md-4 text-center">
+                <a href="{{item.url}}"><img class="img-responsive" src="{{item.logo}}" /></a> {{item.nombre}}
+            </div>
+        {% if current == 2 or forloop.last %}
         </div>
         {% endif %}
     {% endfor %}

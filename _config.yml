@@ -198,15 +198,6 @@ pyday2017:
       logo: /img/logos/ull.svg
     - url: http://pythoncanarias.es/
       logo: /img/logos/pythoncanarias.svg
-  patrocinadores_oro:
-    - url: http://cabaana.com/
-      logo: /img/logos/cabaana.svg
-    - url: http://www.coitic.es/
-      logo: /img/logos/coitic.jpg
-    - url: http://dargo.net/
-      logo: /img/logos/dargo.svg
-    - url: http://www.arte-consultores.com/
-      logo: /img/logos/arteconsultores.png
   patrocinadores_platino:
     - url: http://www.mutuatfe.es/?utm_source=pyday&utm_medium=banner&utm_campaign=pyday2017
       logo: /img/logos/mutuatfe.jpg
@@ -216,3 +207,12 @@ pyday2017:
       logo: /img/logos/kreitek.svg
     - url: http://es.python.org/
       logo: /img/logos/pythonespana.svg
+  patrocinadores_oro:
+    - url: http://cabaana.com/
+      logo: /img/logos/cabaana.svg
+    - url: http://www.coitic.es/
+      logo: /img/logos/coitic.jpg
+    - url: http://dargo.net/
+      logo: /img/logos/dargo.svg
+    - url: http://www.arte-consultores.com/
+      logo: /img/logos/arteconsultores.png
