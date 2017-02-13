@@ -19,7 +19,7 @@ navbar-links:
     - ¿Cómo llegar?: "pyday/mapa"
     - FAQ: "pyday/faq"
     - ¿Quieres patrocinarnos?: "https://github.com/pythoncanarias/docs/raw/master/carteleria/brochure_sponsors.pdf"
-    - Inscripción: "http://todavia.no.com/"
+    - Inscripción: "pyday/inscripcion"
   Sobre nosotros: "nosotros"
 
 # Image to show in the navigation bar - image must be a square (width = height)
