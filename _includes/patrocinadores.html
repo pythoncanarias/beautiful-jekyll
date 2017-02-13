@@ -1,5 +1,5 @@
 <div class="container-fluid">
-    <h2 class="text-center">Patrocinadores <span class="label label-warning">Oro</span></h2>
+    <h2 class="text-center">Patrocinadores <span class="label label-default">Platino</span></h2>
     <br>
     {% for item in site.pyday2017.patrocinadores_platino %}
         {% assign current = forloop.index0|modulo:2 %}
@@ -14,7 +14,7 @@
         {% endif %}
     {% endfor %}
     <br><br>
-    <h2 class="text-center">Patrocinadores <span class="label label-default">Platino</span></h2>
+    <h2 class="text-center">Patrocinadores <span class="label label-warning">Oro</span></h2>
     <br>
     {% for item in site.pyday2017.patrocinadores_oro %}
         {% assign current = forloop.index0|modulo:3 %}
