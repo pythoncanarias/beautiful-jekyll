@@ -1,18 +1,6 @@
 <div class="container-fluid">
-    <h3 class="text-center">Patrocinadores Platino</h3>
-    {% for item in site.pyday2017.patrocinadores_platino %}
-        {% assign current = forloop.index0|modulo:2 %}
-        {% if current == 0 %}
-        <div class="row">
-        {% endif %}
-            <div class="col-md-6 text-center">
-                <a href="{{item.url}}"><img class="img-responsive" src="{{item.logo}}" /></a> {{item.nombre}}
-            </div>
-        {% if current == 1  or forloop.last %}
-        </div>
-        {% endif %}
-    {% endfor %}
-    <h3 class="text-center">Patrocinadores Oro</h3>
+    <h2 class="text-center">Patrocinadores <span class="label label-warning">Oro</span></h2>
+    <br>
     {% for item in site.pyday2017.patrocinadores_oro %}
         {% assign current = forloop.index0|modulo:3 %}
         {% if current == 0 %}
@@ -25,8 +13,24 @@
         </div>
         {% endif %}
     {% endfor %}
+    <br><br>
+    <h2 class="text-center">Patrocinadores <span class="label label-default">Platino</span></h2>
+    <br>
+    {% for item in site.pyday2017.patrocinadores_platino %}
+        {% assign current = forloop.index0|modulo:2 %}
+        {% if current == 0 %}
+        <div class="row">
+        {% endif %}
+            <div class="col-md-6 text-center">
+                <a href="{{item.url}}"><img class="img-responsive" src="{{item.logo}}" /></a> {{item.nombre}}
+            </div>
+        {% if current == 1  or forloop.last %}
+        </div>
+        {% endif %}
+    {% endfor %}
 </div>
 
+<br>
 <div class="text-center">
     <a class="btn btn-success" title="Añadir nuevo patrocinador" href="http://github.com/pythoncanarias/docs/raw/master/carteleria/brochure_sponsors.pdf"><i class="fa fa-file-pdf-o"></i> ¿Quieres patrocinarnos?</a>
 </div>
