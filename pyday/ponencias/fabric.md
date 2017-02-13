@@ -15,6 +15,7 @@ autor:
   email: monobot.soft@gmail.com
   linkedin: hector-alvarez
 ---
+
 **Fabric** es un framework ligero para **despliegues y tareas programadas**
 
 ![logo](/img/pyday/fabric.png){:class="img-responsive img-circle pull-right"}
