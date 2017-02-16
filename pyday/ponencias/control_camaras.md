@@ -12,7 +12,7 @@ Si se quiere prescindir del software comercial proporcionado por el fabricante,
 existen diferentes paquetes en Python que permiten controlar ciertas
 funcionalidades de varios tipos de cámaras.
 
-Mientras que el control de una webcam es sencillo, cuando de una cámara de más
+Mientras que el control de una webcam es sencillo, cuando se trata de una cámara de más
 complejidad, como una cámara científica o una DSLR, se requiere el uso de
 estrategias más elaboradas. La opción más completa es hacerse con el SDK de la
 cámara en cuestión y desarrollar un software que se comunique con las librerías
