@@ -50,6 +50,23 @@ interesa que el ejercicio fuese de dificultad progresiva. De igual manera,
 elige un ejercicio que te facilite la tarea de corregir, para molestarte lo
 menos posible cuando toque. 
 
+## ¿Qué necesitas del alumno o del aula?
+
+Algunos alumnos traeran su portátil, pero en el aula habrán ordenadores que la
+Universidad pone, con Bardinux operativo (una distribución de Linux basada en
+Ubuntu). Si tu charla/taller requiere que los alumnos sigan el software que estás
+explicando, entonces te interesa confirmar que el software esté instalado. Si está
+empaquetado, tenemos que pedir con antelación a los becarios de aula que lo instalen.
+O si no, tendrás que empezar con virtualenvs y pips.
+
+Por otro lado, usaremos la red institucional de la Universidad, que dispone de
+cortafuegos al exterior. Si vas a realizar conexiones a internet a puertos extraños
+(distintos de los basicos 80 443 etc) podrías tener un problema.
+
+Nosotros pasaremos por el aula unos días antes para verificar cosas. Te invitamos
+a pasar a tí también. Si no puedes pasar, pasanos una lista de tus demandas para
+comprobarlas.
+
 ## Cuándo y qué llevar
 
 Intenta estar como mínimo 5 minutos antes de la charla, cuando se despida el
