@@ -11,6 +11,8 @@ tendrán lugar talleres y charlas relacionadas con este lenguaje. La idea es que
 cualquier persona interesada pueda acercarse para preguntar, aprender y
 experimentar con nuestro lenguaje favorito.
 
+En twitter estamos usando el hashtag [#pyDayTF](https://twitter.com/hashtag/pyDayTF).
+
 # ¿Dónde y cuándo se celebrará?
 
 Se celebrará el sábado día 11 de marzo de 2017 en la segunda planta (sala de
