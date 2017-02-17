@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lo que dice Twitter
-subtitle: "Tweets relacionados con el #PyDayTF"
+subtitle: "Tweets relacionados con el #pyDayTF"
 ---
 
 <div class="text-center">
