@@ -196,6 +196,8 @@ pyday2017:
   organizadores:
     - url: http://www.ull.es/
       logo: /img/logos/ull.svg
+    - url: http://osl.ull.es/
+      logo: /img/logos/osl.svg
     - url: http://pythoncanarias.es/
       logo: /img/logos/pythoncanarias.svg
   patrocinadores_platino:
