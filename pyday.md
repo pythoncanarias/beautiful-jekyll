@@ -26,6 +26,10 @@ Habrán dos sesiones en paralelo:
 
 Más detalles: [ver programa completo](programa)
 
+# Inscripción
+
+Por motivos de aforo, hemos limitado a 80 plazas. [Inscríbete](inscripcion).
+
 {% include organizadores.html %}
 {% include patrocinadores.html %}
 
