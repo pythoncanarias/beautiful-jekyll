@@ -6,12 +6,12 @@ subtitle: "11 de marzo de 2017: código, charlas y comunidad"
 
 # ¿Qué es un pyday?
 
-Un pyday (Python Day) es un evento libre y gratuito que dura un día, en donde
+Un pyday (**Py**thon **Day**) es un evento libre y gratuito que dura un día, en donde
 tendrán lugar talleres y charlas relacionadas con este lenguaje. La idea es que
 cualquier persona interesada pueda acercarse para preguntar, aprender y
 experimentar con nuestro lenguaje favorito.
 
-En twitter estamos usando el hashtag [#pyDayTF](https://twitter.com/hashtag/pyDayTF).
+En Twitter estamos usando el hashtag [`#pyDayTF`](https://twitter.com/hashtag/pyDayTF) para la difusión del evento. Echa un ojo a [lo que dice Twitter](twitter/).
 
 # ¿Dónde y cuándo se celebrará?
 
