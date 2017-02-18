@@ -5,6 +5,8 @@ title: Control de cámaras
 autor:
   nombre: Sergio Bonaque González
   foto: /img/pyday/ponentes/sergio-bonaque-gonzalez.png
+  bio:
+    Sergio Bonaque González trabaja como ingeniero óptico en la empresa Wooptix. Es doctor en ciencias por la Universidad de La Laguna y tiene en su haber 4 másteres oficiales. Durante su carrera ha formado parte de varios grupos de investigación dentro de los cuales ha desarrollado un gusto especial por las tareas de programación. Sus conocimientos en python son fundamentalmente prácticos y enfocados a la realización de software útil en un laboratorio de investigación experimental.
   linkedin: sergiobonaque
 ---
 
