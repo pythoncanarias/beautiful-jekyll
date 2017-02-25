@@ -210,6 +210,8 @@ pyday2017:
       logo: /img/logos/kreitek.svg
     - url: http://es.python.org/
       logo: /img/logos/pythonespana.svg
+    - url: http://www.virtualcanarias.com/
+      logo: /img/logos/virtualcanarias.png
   patrocinadores_oro:
     - url: http://cabaana.com/
       logo: /img/logos/cabaana.svg
