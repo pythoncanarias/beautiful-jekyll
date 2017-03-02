@@ -15,16 +15,16 @@ En Twitter estamos usando el hashtag [`#pyDayTF`](https://twitter.com/hashtag/py
 
 # ¿Dónde y cuándo se celebrará?
 
-Se celebrará el sábado día 11 de marzo de 2017 en la segunda planta (sala de
-informática) del edificio CajaCanarias en el campus de Anchieta de la
-Universidad de La Laguna. Si no sabes donde es, [echa un vistazo al mapa](mapa).
+Se celebrará el sábado día 11 de marzo de 2017 en el **Edificio de Servicios al
+Alumnado de Anchieta** (antiguo edificio CajaCanarias) de la Universidad de La
+Laguna. Si no sabes donde es, [echa un vistazo al mapa](mapa).
 
 # ¿Cuál es el programa?
 
 Habrán dos sesiones en paralelo:
 
-- los **talleres de iniciación**, donde se realizarán sesiones de instalación y de primeros pasos en varias tecnologías
-- las **charlas avanzadas**, que tendrán una agenda de charlas especializadas de 40-50 minutos
+- los **talleres de iniciación**, donde se realizarán sesiones de instalación y de primeros pasos en varias tecnologías, que se realizarán en el aula de ordenadores (planta segunda)
+- las **charlas avanzadas**, que tendrán una agenda de charlas especializadas de 40-50 minutos, que se realizarán en la sala de estudio (planta primera)
 
 Más detalles: [ver programa completo](programa)
 
