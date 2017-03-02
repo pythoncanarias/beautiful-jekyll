@@ -33,6 +33,9 @@ posible que la gente tenga un ordenador o su propio portatil.
 Pásanos la presentación cuando la tengas para poder colgarla el día del evento.
 Indícanos si te es problema que la colguemos antes.
 
+Aunque va a haber internet, te aconsejamos que traigas el contenido de tu
+charla offline, para el caso de que hubiese algún problema de red imprevisto.
+
 ## Evaluación
 
 Los alumnos universitarios que opten a un crédito ECTS deberán hacer los
