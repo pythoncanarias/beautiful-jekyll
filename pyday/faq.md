@@ -10,10 +10,11 @@ Estamos promocionando este evento por institutos con ciclos de formación profes
 
 # Soy estudiante universitario. ¿Puedo obtener créditos de libre elección?
 
-La sesión de los cursos están reconocidos para la obtención de **1 crédito ECTS**.
-La entidad que realiza el reconocimiento es la [Oficina del Software
-Libre](http://www.osl.ull.es), que forma parte del **Vicerrectorado de TIC y
-Servicios Universitarios**.
+La sesión de los cursos están reconocidos para la obtención de **1 crédito
+ECTS**.  La entidad que realiza el reconocimiento es la [Oficina del Software
+Libre](http://www.osl.ull.es), que forma parte del **Vicerrectorado de
+Tecnologías de la Información y Desarrollo Digital**.
+
 
 Para poder certificar y obtener el crédito ECTS, será necesario que los asistentes hagan lo siguiente:
 
