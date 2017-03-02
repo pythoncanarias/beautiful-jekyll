@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nuevo periodo de inscripcion para el Pyday.
+title: Nuevo periodo de inscripción para el Pyday.
 tags: [pyday, entradas]
 ---
 
