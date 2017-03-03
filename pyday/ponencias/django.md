@@ -4,7 +4,7 @@ layout: ponencia
 title: Introducción a Django
 subtitle: "El framework web para perfeccionistas con fechas límite"
 autor:
-  nombre: Aun por determinar
+  nombre: Elena María Marrero Méndez
   foto: /img/pyday/ponentes/unknown.png
 ---
 

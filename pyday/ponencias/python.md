@@ -5,7 +5,19 @@ subtitle: Python es un lenguaje de programación que permite
     desarrollo rápido e integración de sistemas.
 layout: ponencia
 autor:
-  nombre: Aun por determinar
+  nombre: Víctor Suárez García
+  foto: /img/pyday/ponentes/zerasul.png
+  bio:
+    Ingeniero y aficionado a la tecnología; almeriense de 
+    nacimiento y recientemente mudado a Tenerife. Siempre
+    está experimentando y le encanta organizar eventos y 
+    charlas. Le encanta experimentar con Arduino y las 
+    nuevas tecnologías. Últimamente esta experimentando
+    con visión artificial y con Python. Aunque siempre está
+    utilizando Java.
+  github: zerasul
+  twitter: zerasul
+  telegram: zerasul
 ---
 ![I Love Python](/img/pyday/python.png){:class="img-responsive pull-right"}
 
