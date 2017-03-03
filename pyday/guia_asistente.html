@@ -2,6 +2,27 @@
 layout: page
 title: Guia del asistente
 subtitle: "¿Qué tengo que hacer si soy asistente?"
+
+bares:
+  - nombre: Bar Restaurante El Cortijo
+    plazas: 15
+    latitud: 28.48201
+    longitud: -16.32672
+  - nombre: Comercial Los Corrales
+    plazas: 8
+    latitud: 28.48151
+    longitud: -16.32139
+  - nombre: Bar X
+    plazas: ~40
+    latitud: 28.48345
+    longitud: -16.32430
+  - nombre: Rincon de Make ¿?
+    latitud: 28.48615
+    longitud: -16.32481
+  - nombre: Bar Sinfreno
+    plazas: ~40
+    latitud: 28.48653
+    longitud: -16.32275
 ---
 
 <h2>¿Hay ordenadores o tengo que llevar mi portatil?</h2>
@@ -13,11 +34,13 @@ subtitle: "¿Qué tengo que hacer si soy asistente?"
 
 <p>Por la zona hay varios bares y restaurantes a menos de 500m.</p>
 <ul>
-<li>Bar Restaurante El Cortijo (~15 plazas) <a href="geo:28.48201,-16.32672?z=19">geo:28.48201,-16.32672?z=19</a></li>
-<li>Comercial Los Corrales (~8 plazas) <a href="geo:28.48151,-16.32139?z=19">geo:28.48151,-16.32139?z=19</a></li>
-<li>Bar X (~40 plazas) <a href="geo:28.48345,-16.32430?z=19">geo:28.48345,-16.32430?z=19</a></li>
-<li>Rincon de Make ¿? () <a href="geo:28.48615,-16.32481?z=19">geo:28.48615,-16.32481?z=19</a></li>
-<li>Bar Sinfreno (~40 plazas) <a href="geo:28.48653,-16.32275?z=19">geo:28.48653,-16.32275?z=19</a></li>
+{% for bar in page.bares %}
+    <li>
+    {{bar.nombre}}
+    {% if bar.plazas %}({{bar.plazas}} plazas){% endif %}
+    <a href="geo:{{bar.latitud}},{{bar.longitud}}?z=19">geo:{{bar.latitud}},{{bar.longitud}}?z=19</a>
+    </li>
+{% endfor %}
 </ul>
 
 <div class="container-fluid" id="mapdiv" style="height: 300px"></div>
@@ -37,40 +60,14 @@ subtitle: "¿Qué tengo que hacer si soy asistente?"
     var vectorLayer = new OpenLayers.Layer.Vector("Overlay");
 
     // Define markers as "features" of the vector layer:
+    {% for bar in page.bares %}
     var feature = new OpenLayers.Feature.Vector(
-            new OpenLayers.Geometry.Point(-16.32672, 28.48201).transform(epsg4326, projectTo),
-            {description:'Bar Restaurante El Cortijo'} ,
+            new OpenLayers.Geometry.Point({{bar.longitud}}, {{bar.latitud}}).transform(epsg4326, projectTo),
+            {description:'{{bar.nombre}}'} ,
             {externalGraphic: '/img/marker.png', graphicHeight: 25, graphicWidth: 21, graphicXOffset:-12, graphicYOffset:-25  }
         );    
     vectorLayer.addFeatures(feature);
-
-    var feature = new OpenLayers.Feature.Vector(
-            new OpenLayers.Geometry.Point(-16.32139, 28.48151).transform(epsg4326, projectTo),
-            {description:'Comercial Los Corrales'} ,
-            {externalGraphic: '/img/marker.png', graphicHeight: 25, graphicWidth: 21, graphicXOffset:-12, graphicYOffset:-25  }
-        );    
-    vectorLayer.addFeatures(feature);
-
-    var feature = new OpenLayers.Feature.Vector(
-            new OpenLayers.Geometry.Point(-16.32275, 28.48653).transform(epsg4326, projectTo),
-            {description:'Bar Sinfreno'} ,
-            {externalGraphic: '/img/marker.png', graphicHeight: 25, graphicWidth: 21, graphicXOffset:-12, graphicYOffset:-25  }
-        );    
-    vectorLayer.addFeatures(feature);
-
-    var feature = new OpenLayers.Feature.Vector(
-            new OpenLayers.Geometry.Point(-16.32481, 28.48615).transform(epsg4326, projectTo),
-            {description:'Rincon de Make ¿?'} ,
-            {externalGraphic: '/img/marker.png', graphicHeight: 25, graphicWidth: 21, graphicXOffset:-12, graphicYOffset:-25  }
-        );    
-    vectorLayer.addFeatures(feature);
-
-    var feature = new OpenLayers.Feature.Vector(
-            new OpenLayers.Geometry.Point(-16.32430, 28.48345).transform(epsg4326, projectTo),
-            {description:'Bar X'} ,
-            {externalGraphic: '/img/marker.png', graphicHeight: 25, graphicWidth: 21, graphicXOffset:-12, graphicYOffset:-25  }
-        );    
-    vectorLayer.addFeatures(feature);
+    {% endfor %}
 
     var feature = new OpenLayers.Feature.Vector(
             new OpenLayers.Geometry.Point(-16.32263, 28.48106).transform(epsg4326, projectTo),
@@ -78,8 +75,6 @@ subtitle: "¿Qué tengo que hacer si soy asistente?"
             {externalGraphic: '/img/marker-python.png', graphicHeight: 25, graphicWidth: 25, graphicXOffset:-12, graphicYOffset:-12  }
         );    
     vectorLayer.addFeatures(feature);
-
-    
 
     map.addLayer(vectorLayer);
  
