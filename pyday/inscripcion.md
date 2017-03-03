@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Inscripcción
+title: Inscripción
 subtitle: "Registro de Participantes"
 ---
 
