@@ -5,35 +5,43 @@ subtitle: "¿Qué tengo que hacer si soy asistente?"
 
 bares:
   - nombre: Comercial Los Corrales
-    plazas: ~10
+    m: 230
+    plazas: 1
     latitud: 28.48151
     longitud: -16.32139
   - nombre: Bar Restaurante El Cortijo
-    plazas: ~20
+    m: 440
+    plazas: 2
     latitud: 28.48201
     longitud: -16.32672
   - nombre: Bodegón Gaspar (¿cerrado?)
-    plazas: ~40
+    m: 490
+    plazas: 4
     latitud: 28.48345
     longitud: -16.32430
   - nombre: Taberna Franco
-    plazas: ~40
+    m: 620
+    plazas: 4
     latitud: 28.483015
     longitud: -16.327023
   - nombre: Tennessee
-    plazas: ~30
+    m: 730
+    plazas: 3
     latitud: 28.48382
     longitud: -16.32657
   - nombre: Bar La Cruzada
-    plazas: ~20
+    m: 790
+    plazas: 2
     latitud: 28.48505
     longitud: -16.32554
   - nombre: Rincón de Make
-    plazas: ~20
+    m: 770
+    plazas: 2
     latitud: 28.48615
     longitud: -16.32481
   - nombre: Bar Sinfreno
-    plazas: ~40
+    m: 930
+    plazas: 4
     latitud: 28.48653
     longitud: -16.32275
 ---
@@ -45,16 +53,32 @@ bares:
 
 <h2>¿Dónde almorzar por la zona?</h2>
 
-<p>Por la zona hay varios bares y restaurantes a menos de 500m.</p>
-<ul>
+<p>Tienes dos horas para comer. Por el Coromoto hay varios bares y restaurantes
+a menos de 800m, a los que se puede ir caminando en llano. Los bares más
+cercanos de la Avda. Trinidad están a 700m, pero ten en cuenta que al volver te
+tocará subir la rampa con un peso extra. Pulsa en los enlaces para abrir las
+ubicaciones en tu navegador GPS.</p>
+
+<table class="table table-responsive">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th class="text-center">Aforo</th>
+            <th class="text-center">Distancia</th>
+            <th class="text-center">Ubicación</th>
+        </tr>
+    </thead>
+    <tbody>
 {% for bar in page.bares %}
-    <li>
-    {{bar.nombre}}
-    {% if bar.plazas %}({{bar.plazas}} plazas){% endif %}
-    <a href="geo:{{bar.latitud}},{{bar.longitud}}?z=19">geo:{{bar.latitud}},{{bar.longitud}}?z=19</a>
-    </li>
+        <tr>
+            <td>{{bar.nombre}}</td>
+            <td class="text-center">{% if bar.plazas %}<span class="badge">{% for i in (1..bar.plazas) %}<i class="fa fa-group"></i>{% endfor %}</span>{% endif %}</td>
+            <td class="text-center">{{bar.m}}m</td>
+            <td class="text-center"><a href="geo:{{bar.latitud}},{{bar.longitud}}?z=19">{{bar.latitud}},{{bar.longitud}}</a></td>
+        </tr>
 {% endfor %}
-</ul>
+    </tbody>
+</table>
 
 <div class="container-fluid" id="mapdiv" style="height: 300px"></div>
 
@@ -76,7 +100,7 @@ bares:
     {% for bar in page.bares %}
     var feature = new OpenLayers.Feature.Vector(
             new OpenLayers.Geometry.Point({{bar.longitud}}, {{bar.latitud}}).transform(epsg4326, projectTo),
-            {description:'{{bar.nombre}}'} ,
+            {description:'{{bar.nombre}} a {{bar.m}}m'} ,
             {externalGraphic: '/img/marker.png', graphicHeight: 25, graphicWidth: 21, graphicXOffset:-12, graphicYOffset:-25  }
         );    
     vectorLayer.addFeatures(feature);
