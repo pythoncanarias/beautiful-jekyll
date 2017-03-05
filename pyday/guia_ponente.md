@@ -87,3 +87,7 @@ un problema, avísanos para no grabar el tuyo.
 
 Unos días antes de la charla te pediremos tu nombre, apellidos y número de DNI
 para dárselo al servicio de seguridad para que te dejen entrar en el recinto.
+
+<h2>Código de conducta</h2>
+
+Es imprescindible el cumplimiento de [nuestro código de conducta](/pyday/codigo_conducta).
