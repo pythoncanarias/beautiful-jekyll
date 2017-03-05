@@ -26,11 +26,11 @@ Habrán dos sesiones en paralelo:
 - los **talleres de iniciación**, donde se realizarán sesiones de instalación y de primeros pasos en varias tecnologías, que se realizarán en el aula de ordenadores (planta segunda)
 - las **charlas avanzadas**, que tendrán una agenda de charlas especializadas de 40-50 minutos, que se realizarán en la sala de estudio (planta primera)
 
-Más detalles: [ver programa completo](programa)
+> Más detalles:
 
-# Inscripción
-
-Por motivos de aforo, hemos limitado a 80 plazas. [Inscríbete](inscripcion).
+- [Ver programa completo](programa)
+- [Guía del asistente](guia_asistente)
+- [Guía del ponente](guia_ponente)
 
 {% include organizadores.html %}
 {% include patrocinadores.html %}
