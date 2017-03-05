@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guia del ponente
+title: Guía del ponente
 subtitle: "¿Qué tengo que hacer si soy ponente?"
 ---
 
@@ -12,7 +12,7 @@ con la organización. Si está, verifica que puedes en el horario asignado.
 También comprueba que el texto, tu biografía, tu foto y tus redes sociales
 son las que quieres que sean. Si no, ponte en contacto con nosotros. El código
 fuente de esta web está en [github/pythoncanarias](https://github.com/pythoncanarias/pythoncanarias_web/tree/master/pyday/ponencias).
-Hay un ejemplo.md con todo lo que permitimos. Modifíca tu charla a tu gusto y pásanoslo.
+Hay un `ejemplo.md` con todo lo que permitimos. Modifica tu charla a tu gusto y pásanoslo.
 
 ## Estar localizable
 
@@ -28,7 +28,7 @@ pongamos un reloj con cuenta atrás para que lo veas, y estaremos por allí para
 recordártelo.
 
 No tienen porqué ser interactivas. Interactivos son los talleres. Aunque es
-posible que la gente tenga un ordenador o su propio portatil.
+posible que la gente tenga un ordenador o su propio portátil.
 
 Pásanos la presentación cuando la tengas para poder colgarla el día del evento.
 Indícanos si te es problema que la colguemos antes.
@@ -44,7 +44,7 @@ ejercicios se dará en la última hora de clase, por tanto, no es necesario que
 lo adelantes en tu ponencia.
 
 Por esta razón, junto con tu charla, tienes que pasarnos uno (o varios)
-ejercicios para dicha evaluación. Unos días despues del curso te reenviaremos
+ejercicios para dicha evaluación. Unos días después del curso te reenviaremos
 lo que nos han enviado los alumnos para que los corrijas.
 
 Piensa en un ejercicio que todos tus alumnos puedan realizar en 1-2 horas. Ten
@@ -55,7 +55,7 @@ menos posible cuando toque.
 
 ## ¿Qué necesitas del alumno o del aula?
 
-Algunos alumnos traeran su portátil, pero en el aula habrán ordenadores que la
+Algunos alumnos traerán su portátil, pero en el aula habrán ordenadores que la
 Universidad pone, con Bardinux operativo (una distribución de Linux basada en
 Ubuntu). Si tu charla/taller requiere que los alumnos sigan el software que estás
 explicando, entonces te interesa confirmar que el software esté instalado. Si está
@@ -63,12 +63,9 @@ empaquetado, tenemos que pedir con antelación a los becarios de aula que lo ins
 O si no, tendrás que empezar con virtualenvs y pips.
 
 Por otro lado, usaremos la red institucional de la Universidad, que dispone de
-cortafuegos al exterior. Si vas a realizar conexiones a internet a puertos extraños
-(distintos de los basicos 80 443 etc) podrías tener un problema.
+cortafuegos al exterior. Si vas a realizar conexiones a internet a puertos extraños (distintos de los básicos 80, 443, etc.) podrías tener un problema.
 
-Nosotros pasaremos por el aula unos días antes para verificar cosas. Te invitamos
-a pasar a tí también. Si no puedes pasar, pasanos una lista de tus demandas para
-comprobarlas.
+Nosotros pasaremos por el aula unos días antes para verificar cosas. Te invitamos a pasar a ti también. Si no puedes pasar, pasanos una lista de tus demandas para comprobarlas.
 
 ## Cuándo y qué llevar
 
@@ -80,7 +77,7 @@ ponente anterior, para que prepares tu puesto. Recuerda que:
 
 ## Grabación
 
-Vamos a grabar los talleres para colgarlos en youtube. Streaming no vamos a
+Vamos a grabar los talleres para colgarlos en Youtube. Streaming no vamos a
 hacer.  Se colocarán 3 cámaras: una enfocando al ponente, otra enfocando al
 público, y otra enfocando a la presentación (realmente una capturadora hdmi).
 Con estas tres fuentes se hará posteriormente el maquetado. Si esto te supone
@@ -89,4 +86,4 @@ un problema, avísanos para no grabar el tuyo.
 ## Control de acceso
 
 Unos días antes de la charla te pediremos tu nombre, apellidos y número de DNI
-para darselo al servicio de seguridad para que te dejen entrar en el recinto.
+para dárselo al servicio de seguridad para que te dejen entrar en el recinto.
