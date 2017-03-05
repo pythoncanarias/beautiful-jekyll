@@ -101,7 +101,7 @@ ubicaciones en tu navegador GPS.</p>
     var feature = new OpenLayers.Feature.Vector(
             new OpenLayers.Geometry.Point({{bar.longitud}}, {{bar.latitud}}).transform(epsg4326, projectTo),
             {description:'{{bar.nombre}} a {{bar.m}}m'} ,
-            {externalGraphic: '/img/marker.png', graphicHeight: 25, graphicWidth: 21, graphicXOffset:-12, graphicYOffset:-25  }
+            {externalGraphic: '/img/marker2.png', graphicHeight: 25, graphicWidth: 25, graphicXOffset:-12, graphicYOffset:-25  }
         );    
     vectorLayer.addFeatures(feature);
     {% endfor %}
@@ -143,3 +143,5 @@ ubicaciones en tu navegador GPS.</p>
     controls['selector'].activate();
       
 </script>
+
+<p><small><img src="/img/marker2.png"> Sitios para almorzar</small></p>
