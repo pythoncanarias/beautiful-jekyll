@@ -19,3 +19,14 @@ table.agenda .avanzado {
     background-color: rgba(240, 173, 78, 0.15);
     width: 50%;
 }
+
+table.agenda img {
+    border-radius: 50%;
+    border: 5px solid black;
+}
+
+table.agenda .detalle_track {
+    color: #666666;
+    font-style: italic;
+    font-weight: normal;
+}
