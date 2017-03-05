@@ -1,0 +1,21 @@
+table.agenda tr {
+    background-color: white;
+}
+
+table.agenda th.corner, table.agenda td.corner {
+    border: 0;
+}
+
+table.agenda tr.header, table.agenda tr.footer {
+    border: 0;
+}
+
+table.agenda .iniciacion {
+    background-color: rgba(51, 122, 183, 0.15);
+    width: 50%;
+}
+
+table.agenda .avanzado {
+    background-color: rgba(240, 173, 78, 0.15);
+    width: 50%;
+}
