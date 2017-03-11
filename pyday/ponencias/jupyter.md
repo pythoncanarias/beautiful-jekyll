@@ -25,3 +25,5 @@ Los *notebooks* incluyen todo lo necesario para ser ejecutados cuantas veces hag
 otros formatos, como por ejemplo PDF, para su publicación.
 
 En esta charla de introducción veremos algunos detalles de la arquitectura abierta de Jupyter, así como ejemplos de los tipos de documentos y funcionalidades que nos proporciona.
+
+Ejemplo de Notebook: <a href="https://github.com/pythoncanarias/docs/blob/master/como_se_hizo_el_logo_de_Python_Canarias.ipynb">Cómo se hizo el logo de Python Canarias</a>
