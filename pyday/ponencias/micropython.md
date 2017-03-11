@@ -15,3 +15,5 @@ autor:
 ---
 
 Introducción al funcionamiento de [MicroPython](http://micropython.org/) en un [ESP8266](https://en.wikipedia.org/wiki/ESP8266).
+
+La presentación de la charla está disponible en [slideshare](https://www.slideshare.net/JoseLucasGrilloLoren/micropython-el-slice-y-la-serpiente).
