@@ -20,3 +20,5 @@ autor:
 ---
 
 Charla sobre tratamiento y obtención de información de imágenes utilizando la visión artificial. En este caso veremos como utilizar OpenCV con Python en una Raspberry Pi.
+
+Aquí esta la presentación en [Slides.com](http://slides.com/zerasul/vision-artificial#/).
