@@ -35,3 +35,5 @@ Está pensado como charla de iniciación, asumiendo poca o ninguna experiencia e
 programación, pero aun si tienes experiencia con otros lenguajes 
 te puede interesar asistir, ya que se comentarán también las
 principales diferencias con otros lenguajes actuales.
+
+Aquí esta el enlace a la presentación en [Slides.com](http://slides.com/zerasul/python#/).
