@@ -36,3 +36,5 @@ Finalizaremos con [SciPy](http://www.scipy.org) que es un compendio de
 librerías para matemáticas, ciencia e ingeniería, de las cuales una muy usada
 es [NumPy](http://www.numpy.org/) que es una librería para hacer cálculos con
 vectores y matrices N-dimensionales.
+
+[Visualizar presentación](http://intranet.galotecnia.com/p/matematicas.html)

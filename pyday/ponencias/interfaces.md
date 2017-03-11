@@ -32,3 +32,5 @@ servos, encenderemos leds, usaremos pantallas LCD, y más cosas desde python.
 Y el objetivo del taller será construir una aplicación táctil capaz de
 controlar una Raspberry Pi localmente (el ponente) o a través de un móvil/PC
 via WiFi (los alumnos).
+
+[Visualizar presentación](http://intranet.galotecnia.com/p/interfaces.html)
