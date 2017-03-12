@@ -21,3 +21,5 @@ ayuda directa en cualquier momento. ¿Bots vs Apps?
 
 Durante ésta ponencia veremos como crear un bot desde cero y conseguir que
 obedezca nuestras órdenes.
+
+Aquí tienes [la presentación de la charla y los ejercicios necesarios para certificar el crédito ECTS](https://docs.google.com/presentation/d/1P-U9XcwcsxucfXNciDo8khJvoqSv-B6NZFLrgMl9PuE/edit?usp=sharing).
