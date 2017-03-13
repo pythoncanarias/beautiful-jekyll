@@ -17,3 +17,17 @@ autor:
 como programadores de Python una línea de código 
 mal puesta no afecta al gasto energético de tu servidor, 
 mientras tú código funcione? ¡Comprobémoslo!
+
+### Ejercicios para crédito ECTS
+
+Utilizando el script de `perfcall`: [https://github.com/Anexo/perfcall](https://github.com/Anexo/perfcall)
+
+> Ayuda para ejecutarlo:  
+    `sudo ./perfcall.py -t 0 -c 1 -I 500 -e 1 -T 1 -a 'python fannkuch.py 11'`
+
+1. Realizar una medición de un script hecho por ti o de uno de tu elección de:
+    - [http://benchmarksgame.alioth.debian.org/](http://benchmarksgame.alioth.debian.org/)
+2. Graficar el resultado con el script:
+    - [https://github.com/Anexo/perfcsvplot](https://github.com/Anexo/perfcsvplot)
+
+Pueden enviar los resultados a: `tlopezfr@ull.edu.es`
