@@ -7,7 +7,7 @@ autor:
   nombre: Sergio Medina
   foto: /img/pyday/ponentes/smedina.jpg
   bio:
-    Senior Developer en System73, amante de Python, devops, amateur de la seguridad informática y curioso por naturaleza. Me considero a mi mismo aprendiz de todo, maestro de nada. Así mismo soy un gran amante del software libre y de sus respectivas comunidades. Generalmente me opongo a trabajar con herramientas de software propietario excepto por el PyCharm, el cual es el que programa por mi.  
+    Senior Developer en System73, amante de Python, devops, amateur de la seguridad informática y curioso por naturaleza. Me considero a mi mismo aprendiz de todo, maestro de nada. Así mismo soy un gran amante del software libre y de sus respectivas comunidades. Generalmente me opongo a trabajar con herramientas de software propietario excepto por el PyCharm, el cual es el que programa por mi.
     En mi día a día me dedico a programar microservicios en Python, así como diseñar infraestructuras distribuidas. Esto cambia al llegar a casa, donde le suelo dar a todo tipo de tecnologías, desde embebidos y lenguajes compilados, pasando por sistemas de alto rendimento o altamente paralelos, hasta seguridad ofensiva, networking y protocolos. Últimamente centro mi interés por Rust, e incluso algunas veces me convierto en pecador y le doy al js.
   linkedin: sergiomed
   github: lumasepa
@@ -25,3 +25,5 @@ librería estándar de I/O asíncrono, disponible a partir de la versión 3.4. L
 nueva sintaxis `async/await` y el API de Streams de `asyncio`. Para ello
 usaremos un ejemplo de un servidor y clientes de *chat* simple. Por último
 veremos en que tipo de problemas encaja el modelo de I/O asíncrono.
+
+Aquí tienes [la presentación de la charla y los ejercicios necesarios para certificar el crédito ECTS](https://github.com/lumasepa/PyDayTF_asyncio).

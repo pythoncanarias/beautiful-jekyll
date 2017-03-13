@@ -20,3 +20,5 @@ Fabric es un framework ligero para **despliegues y tareas programadas**
 ![logo](/img/pyday/fabric.png){:class="img-responsive img-circle pull-right"}
 
 En muchas ocasiones te encuentras que necesitas ejecutar comandos unos tras otros en una o varias máquinas, ésto resulta tedioso como poco, para ello se recomienda la utilización de una librería como **fabric** de ésta forma te permite automatizar y evitar errores, al ser en puro python tienes a tu disposición todo el ecosistema de python.
+
+Aquí tienes [la presentación de la charla y la descripción del ejercicio para certificar el crédito ECTS](https://monobot.github.io/fabric_pyday2017/#/).
