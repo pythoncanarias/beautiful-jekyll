@@ -1,7 +1,7 @@
 ---
 permalink: "/pyday/ponencias/godot_engine/"
 layout: ponencia
-title: Desarrollo de videojueogs con Godot Engine
+title: Desarrollo de videojuegos con Godot Engine
 subtitle: "Godot es un motor de videojuegos 2D y 3D multiplataforma"
 autor:
   nombre: David Vargas
