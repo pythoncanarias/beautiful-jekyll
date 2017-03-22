@@ -18,6 +18,10 @@ como programadores de Python una línea de código
 mal puesta no afecta al gasto energético de tu servidor, 
 mientras tú código funcione? ¡Comprobémoslo!
 
+### Presentación
+
+Puedes consultar la presentación en [este enlace de Slideshare](http://www.slideshare.net/pythoncanarias/rendimiento-y-consumo-energetico-con-python).
+
 ### Ejercicios para crédito ECTS
 
 Utilizando el script de `perfcall`: [https://github.com/Anexo/perfcall](https://github.com/Anexo/perfcall)
