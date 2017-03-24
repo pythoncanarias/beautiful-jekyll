@@ -26,4 +26,4 @@ soportadas.  Para 2D, Godot tiene un motor completo 2D independiente, que evita
 shaders, GUIs, sprites, set de tiles, desplazamiento parallax, polígonos,
 animaciones, física, partículas y más. 
 
-
+[Enlace a la presentación](http://www.slideshare.net/pythoncanarias/programacion-de-videojuegos-con-godot-engine).
