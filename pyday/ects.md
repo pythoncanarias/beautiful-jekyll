@@ -17,11 +17,27 @@ Crear una función que dada una ruta de nuestro sistema, muestre el listado de t
 > - Ver módulo `fnmatch`.
 > - Ver módulo `os`.
 
+📩 **ENVIAR POR CORREO ELECTRÓNICO A: `zerasul@gmail.com`**
+
 [Enlace a la ponencia](/pyday/ponencias/python/)
 
 ## Taller de introducción a Django
 
-**Los ejercicios aún no están disponibles**.
+Partiendo del mismo supuesto visto durante el taller, se solicita realizar las siguientes actividades.
+
+> NOTA: El proyecto es el mismo que se ha trabajado durante la sesión, sin embargo para facilitar la corrección es imprescindible que se trabaje directamente sobre el código que puede descargarse desde [https://github.com/elemarez/django-pyday2017](https://github.com/elemarez/django-pyday2017). No se valorarán mejoras que no estén expuestas en este documento.
+
+1. Añadir un recaptcha al formulario de inscripción. Siguiendo las instrucciones de [https://github.com/praekelt/django-recaptcha](https://github.com/praekelt/django-recaptcha).
+
+2. Visualizar en la interfaz web pública el número de plazas libres que quedan en un evento.
+
+3. En la interfaz de administración, añadir a la Inscripción un filtro por evento.
+
+4. En la interfaz de administración, añadir a la Inscripción la búsqueda por NIF y por Nombre y Apellidos.
+
+En la raíz del proyecto se deberá añadir un documento que indique los pasos a seguir para realizar cada una de las actividades en forma de README.
+
+📩 **ENVIAR POR CORREO ELECTRÓNICO A: `elemarez@gmail.com`**
 
 [Enlace a la ponencia](/pyday/ponencias/django/)
 
@@ -29,11 +45,15 @@ Crear una función que dada una ruta de nuestro sistema, muestre el listado de t
 
 **Los ejercicios aún no están disponibles**.
 
+📩 **ENVIAR POR CORREO ELECTRÓNICO A: `euribates@gmail.com`**
+
 [Enlace a la ponencia](/pyday/ponencias/jupyter/)
 
 ## Matemáticas y Python
 
 **Los ejercicios aún no están disponibles**.
+
+📩 **ENVIAR POR CORREO ELECTRÓNICO A: `amd77@galotecnia.com`**
 
 [Enlace a la ponencia](/pyday/ponencias/matematicas/)
 
@@ -53,11 +73,15 @@ Escribe un programa **original** que haga uso de al menos 3 de las siguientes ca
     + O, RTC u otras funciones de sleep **+3**
 - Extras opcionales: funciones de red.
 
+📩 **ENVIAR POR CORREO ELECTRÓNICO A: `enen.minotaur@gmail.com`**
+
 [Enlace a la ponencia](/pyday/ponencias/micropython/)
 
 ## Interfaces: kivy y Raspberry Pi
 
 **Los ejercicios aún no están disponibles**.
+
+📩 **ENVIAR POR CORREO ELECTRÓNICO A: `amd77@galotecnia.com`**
 
 [Enlace a la ponencia](/pyday/ponencias/interfaces/)
 
@@ -73,6 +97,8 @@ Utilizando el script de `perfcall`: [https://github.com/Anexo/perfcall](https://
 2. Graficar el resultado con el script:
     - [https://github.com/Anexo/perfcsvplot](https://github.com/Anexo/perfcsvplot)
 
+📩 **ENVIAR POR CORREO ELECTRÓNICO A: `info@tomaslopezfragosorumeu.com`**
+
 [Enlace a la ponencia](/pyday/ponencias/rendimiento_consumo_energetico/)
 
 ## Fabric: Tareas y despliegues
@@ -82,6 +108,8 @@ Hacer un script en Python. El script se debe conectar a un servidor remoto, y gu
 > Pista:
 > 
 > Para el árbol de ficheros y directorios hay un comando de consola llamada "tree". Para que la salida del comando se guarde en un fichero determinado puedes poner `"tree > myfile.txt"`.
+
+📩 **ENVIAR POR CORREO ELECTRÓNICO A: `monobot.soft@gmail.com`**
 
 [Enlace a la ponencia](/pyday/ponencias/fabric/)
 
@@ -141,6 +169,8 @@ pip install -r requirements.txt
 py.test
 ```
 
+📩 **ENVIAR POR CORREO ELECTRÓNICO A: `lumasepa@gmail.com`**
+
 [Enlace a la ponencia](/pyday/ponencias/asyncio/)
 
 ## Crear una API REST con Flask
@@ -157,17 +187,23 @@ Pueden importar las dependencias para ejercicio a partir del **requirements.txt*
 
 `pip install -r requirements.txt`
 
+📩 **ENVIAR POR CORREO ELECTRÓNICO A: `costular@gmail.com`**
+
 [Enlace a la ponencia](/pyday/ponencias/flask/)
 
 ## Visión artificial
 
 Crear un script en Python para detectar los objetos en rojo los cuales deben aparecer solo en la imagen y descartar el resto. Puede hacerse a través de un fichero o usando una webcam
 
+📩 **ENVIAR POR CORREO ELECTRÓNICO A: `zerasul@gmail.com`**
+
 [Enlace a la ponencia](/pyday/ponencias/vision-artificial/)
 
 ## Programación de videojuegos con Godot Engine
 
 **Los ejercicios aún no están disponibles**.
+
+📩 **ENVIAR POR CORREO ELECTRÓNICO A: `davidvargas.tenerife@gmail.com`**
 
 [Enlace a la ponencia](/pyday/ponencias/godot_engine/)
 
