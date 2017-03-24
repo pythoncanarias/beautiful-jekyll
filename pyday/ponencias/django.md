@@ -31,3 +31,6 @@ En este taller se repasarán los conceptos básicos de Django, la forma en
 que se estructuran las aplicaciones en este sistema y haremos una 
 pequeña aplicación web desde cero, incluyendo un panel de administración
 básico.
+
+Presentación disponible [aquí](https://elemarez.github.io/django-pyday2017_slides/){:target="_blank"}. 
+Código fuente desarrollado de ejemplo [aquí](https://github.com/elemarez/django-pyday2017){:target="_blank"}.
