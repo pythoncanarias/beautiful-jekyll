@@ -51,7 +51,15 @@ En la raíz del proyecto se deberá añadir un documento que indique los pasos a
 
 ## Matemáticas y Python
 
-**Los ejercicios aún no están disponibles**.
+Hacer un notebook de **jupyter**, o bien un script que se vaya pausando con `time.sleep(2)`, o con `input('pulse enter')`, que haga lo siguiente:
+
+* matplotlib: dibuje y presente una gráfica de:
+  * la evolución de la [población española](https://es.wikipedia.org/wiki/Evoluci%C3%B3n_demogr%C3%A1fica_moderna_de_Espa%C3%B1a#La_poblaci.C3.B3n_espa.C3.B1ola_en_la_primera_mitad_del_siglo_XX).
+  * otra gráfica al gusto
+* sympy: presente las siguientes ecuaciones con `pprint` y dibuje las gráficas de:
+  * una parábola cualquiera, su derivada y su integral
+  * sin(x)/x, su derivada y su integral
+  * [la curva de kilroy](http://mathworld.wolfram.com/KilroyCurve.html)
 
 📩 **ENVIAR POR CORREO ELECTRÓNICO A: `amd77@galotecnia.com`**
 
@@ -79,7 +87,14 @@ Escribe un programa **original** que haga uso de al menos 3 de las siguientes ca
 
 ## Interfaces: kivy y Raspberry Pi
 
-**Los ejercicios aún no están disponibles**.
+El objetivo es utilizar los ejemplos dados durante el curso, y finalizarlos para conseguir una calculadora.
+
+* Se propone como primera linea un display a todo lo ancho
+* Luego debajo definir teclas para los numeros 1-9 y 0.
+* Ademas tres teclas especiales: tecla AC (all clear/borrar), + (sumar), = (igual)
+* Si se quiere, se pueden hacer las otras tres operaciones (resta, multiplicacion, división), aunque se considera suficiente la suma. 
+* Pista 1: es más sencilla hacerla estilo científica (se va escribiendo la operacion por pantalla y el = ejecuta lo que se ve) que tradicional
+* Pista 2: funcion `eval()` de python
 
 📩 **ENVIAR POR CORREO ELECTRÓNICO A: `amd77@galotecnia.com`**
 
