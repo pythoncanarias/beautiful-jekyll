@@ -43,9 +43,7 @@ En la raíz del proyecto se deberá añadir un documento que indique los pasos a
 
 ## Introducción a Jupyter Notebook
 
-**Los ejercicios aún no están disponibles**.
-
-📩 **ENVIAR POR CORREO ELECTRÓNICO A: `euribates@gmail.com`**
+[Contesta a las siguientes cuestiones y haz el envío online del formulario](https://docs.google.com/forms/d/1TyC6gWHGGlIwf4MRnZ0RYfcc6-s2kgV7Dj3Om1ESi1s/viewform?edit_requested=true)
 
 [Enlace a la ponencia](/pyday/ponencias/jupyter/)
 
@@ -216,7 +214,14 @@ Crear un script en Python para detectar los objetos en rojo los cuales deben apa
 
 ## Programación de videojuegos con Godot Engine
 
-**Los ejercicios aún no están disponibles**.
+* Crear un proyecto con GodotEngine.
+* Crear una escena con un nodo Sprite.
+* Agregar una Imagen (textura) al nodo Sprite.
+* Agregar un script (GDPython) al nodo Sprite para darle movimiento (Cambiar su posición con el tiempo)
+
+> NOTAS:
+* Dentro de la funcion _ready hay que activar process (set_process(true))
+* Hay que programar el movimiento (traslación o cambio de posición) del objeto dentro de la función _process.
 
 📩 **ENVIAR POR CORREO ELECTRÓNICO A: `davidvargas.tenerife@gmail.com`**
 
