@@ -8,6 +8,8 @@ En primer lugar debes haber firmado la hoja de asistencia **8 horas** durante el
 
 Si eso fue así, ya puedes pasar a entregar, al menos, **3 de los siguientes ejercicios** propuestos para cada una de las charlas.
 
+📡 Plazo máximo de envío: **30 de abril**.
+
 ## Taller de introducción a Python
 
 Crear una función que dada una ruta de nuestro sistema, muestre el listado de todas las imágenes.
