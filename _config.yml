@@ -13,6 +13,12 @@ description: Comunidad de entusiastas del lenguaje Python.
 
 # List of links in the navigation bar
 navbar-links:
+  Micropython 2017:
+    - Información: "upython"
+    - Conseguir las entradas: "upython/entradas"
+    - Programa: "upython/programa"
+    - ¿Cómo llegar?: "upython/mapa"
+    - ¿Qué es Micropython?: "upython/micropython"
   PyDay Tenerife 2017:
     - Información: "pyday"
     - Programa: "pyday/programa"
@@ -234,3 +240,15 @@ pyday2017:
       logo: /img/logos/open-canarias.svg
     - url: https://www.sieltec.es/
       logo: /img/logos/sieltec.jpg
+
+upython2017:
+  organizadores:
+    - url: http://pythoncanarias.es/
+      logo: /img/logos/pythoncanarias.svg
+  colaboradores:
+    - url: http://kreitek.org/
+      logo: /img/logos/kreitek.svg
+    - url: http://k-electronica.es/
+      logo: /img/logos/k-electronica.svg
+    - url: https://brok-air.com/cetac/
+      logo: /img/logos/brok-air.jpg
