@@ -39,7 +39,7 @@ El objetivo es aprender los fundamentos de `micropython`, con los siguientes con
 - Sensores.
 - Motores.
 
-[Enlace al curso](https://github.com/pythoncanarias/python)
+[Enlace al curso](https://github.com/pythoncanarias/upython)
 
 A continuación pasaremos a realizar el **mini-proyecto**, que consistirá en implementar un *"sensor de proximidad"*, de manera que a medida que nos acercamos al sensor, se emita un sonido cada vez con mayor frecuencia (mediante el zumbador) además de ir variando los colores en el LED RGB.
 
