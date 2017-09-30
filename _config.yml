@@ -19,6 +19,7 @@ navbar-links:
     - Programa: "upython/programa"
     - ¿Cómo llegar?: "upython/mapa"
     - ¿Qué es Micropython?: "upython/micropython"
+    - Repo GitHub: "https://github.com/pythoncanarias/upython"
   PyDay Tenerife 2017:
     - Información: "pyday"
     - Programa: "pyday/programa"

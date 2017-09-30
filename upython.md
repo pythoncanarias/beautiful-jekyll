@@ -20,6 +20,7 @@ Tenemos el placer de anunciar la convocatoria de un **Taller de Micropython** `#
 - [Programa](programa)
 - [¿Cómo llegar?](mapa)
 - [¿Qué es micropython?](micropython)
+- [Repo GitHub](https://github.com/pythoncanarias/upython) 
 
 {% include upython/organizadores.html %}
 {% include upython/colaboradores.html %}
