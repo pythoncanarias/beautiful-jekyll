@@ -253,3 +253,10 @@ upython2017:
       logo: /img/logos/k-electronica.svg
     - url: https://brok-air.com/cetac/
       logo: /img/logos/brok-air.jpg
+
+pyopyo17:
+  organizadores:
+    - url: http://pythoncanarias.es/
+      logo: /img/logos/pythoncanarias.svg
+    - url: http://spegc.org/
+      logo: /img/logos/spegc.svg
