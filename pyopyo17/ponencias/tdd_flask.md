@@ -19,6 +19,4 @@ autor:
   telegram: zerasul
 ---
 
-Charla sobre primeros pasos en el framework [Flask](https://es.wikipedia.org/wiki/Flask) al mismo tiempo que lo programamos usando [TDD - Desarrollo guiado por pruebas](https://es.wikipedia.org/wiki/Desarrollo_guiado_por_pruebas).
-
-Aquí esta la presentación en [Slides.com](http://slides.com/zerasul/).
+Charla de introducción a [TDD - Desarrollo dirigido por pruebas](https://es.wikipedia.org/wiki/Desarrollo_guiado_por_pruebas) e Integración Continua. En esta charla se verán los conceptos básicos de TDD y de como aplicarlo a un entorno de integración continua con herramientas gratuitas como [Github](https://github.com) o [Travis](https://travis-ci.org/). Todo esto usando un ejemplo de desarrollo Web con Flask y Pytest con python.
