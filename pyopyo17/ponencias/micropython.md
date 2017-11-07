@@ -10,7 +10,9 @@ autor:
   twitter: vrruiz
   linkedin: vrruiz
   bio:
-    Biografía: Víctor R. Ruiz es amante de la cultura libre. Co-fundador de Arduino Gran Canaria. Actualmente trabaja en Red Hat asegurándose que Linux funciona bien en plataformas alternativas. En sus ratos libres presenta el podcast de divulgación Radio Skylab.
+    Víctor R. Ruiz es amante de la cultura libre. Co-fundador de Arduino Gran Canaria. 
+    Actualmente trabaja en Red Hat asegurándose que Linux funciona bien en plataformas alternativas. 
+    En sus ratos libres presenta el podcast de divulgación Radio Skylab.
 ---
 
 Python es un lenguaje muy versátil y viene empujando para convertirse en herramienta indispensable del "Internet de las cosas". [MicroPython](http://micropython.org/) es una versión reducida de Python capaz de ejecutarse en microcontroladores, nano-ordenadores cuya principal función es controlar sensores electrónicos y señales eléctricas. Veremos las características MicroPython  y algunos ejemplos de uso.
