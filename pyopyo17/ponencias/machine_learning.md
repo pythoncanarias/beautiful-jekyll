@@ -7,12 +7,12 @@ autor:
   nombre: Antonio Alvarez
   foto: /img/pyopyo17/ponentes/thelemaco.jpg
   bio:
-    Antonio Alvarez ultimamente esta innovando el sector de la Robotica
-    con ROS y el mundo de los Drones autonomos, asi como en el uso
+    Antonio Alvarez últimamente está innovando el sector de la Robótica
+    con ROS y el mundo de los Drones autónomos, así como en el uso
     de placas como la Wemos, Arduino y Rpi. Ha empezado a hacer sus
     primeras incursiones en el mundo del Machine Learning. En concreto
     ha comenzado a estudiar las redes neuronales convolucionales para la
-    deteccion facial y tirando del ‘hilo’ ha empezado a estudiar mas
+    deteccion facial y tirando del ‘hilo’ ha empezado a estudiar más
     a fondo el resto de soluciones asociadas al Mundo de Machine
     Learning.
   twitter: ajalvarezr
@@ -20,4 +20,4 @@ autor:
   telegram: thelemaco
 ---
 
-Usaremos un bonito dataset donde aplicaremos logistic regresion para determinar la probabilidad de muerte 💀 de nuestro amigo Di Caprio.
+Usaremos un bonito dataset donde aplicaremos **logistic regression** para determinar la probabilidad de muerte 💀 de nuestro amigo Di'Caprio.
