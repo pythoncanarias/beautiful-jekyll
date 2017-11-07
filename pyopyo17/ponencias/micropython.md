@@ -10,9 +10,7 @@ autor:
   twitter: vrruiz
   linkedin: vrruiz
   bio:
-    Victor R. Ruiz es ...
+    Biografía: Víctor R. Ruiz es amante de la cultura libre. Co-fundador de Arduino Gran Canaria. Actualmente trabaja en Red Hat asegurándose que Linux funciona bien en plataformas alternativas. En sus ratos libres presenta el podcast de divulgación Radio Skylab.
 ---
 
-Introducción al funcionamiento de [MicroPython](http://micropython.org/) en un [ESP8266](https://en.wikipedia.org/wiki/ESP8266).
-
-La presentación de la charla está disponible en []().
+Python es un lenguaje muy versátil y viene empujando para convertirse en herramienta indispensable del "Internet de las cosas". [MicroPython](http://micropython.org/) es una versión reducida de Python capaz de ejecutarse en microcontroladores, nano-ordenadores cuya principal función es controlar sensores electrónicos y señales eléctricas. Veremos las características MicroPython  y algunos ejemplos de uso.
