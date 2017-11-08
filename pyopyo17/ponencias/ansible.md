@@ -17,4 +17,6 @@ autor:
   telegram: kamaxeon
 ---
 
-En esta charla daremos nuestros primeros pasos en [Ansible](https://www.ansible.com), que es una plataforma para administrar de forma coordinada conjuntos de servidores de aplicaciones.
+[Ansible](https://www.ansible.com) es un sistema de gestión de la configuración, que nos proporciona de una forma simple una plataforma para administrar de forma coordinada los diferentes elementos que conforman nuestra infraestructura.
+
+Además, intentaremos dar una pincelada de diferentes aspectos, que no se suelen ver en los típicos tutoriales.
