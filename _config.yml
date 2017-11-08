@@ -13,22 +13,12 @@ description: Comunidad de entusiastas del lenguaje Python.
 
 # List of links in the navigation bar
 navbar-links:
-  Micropython 2017:
-    - Información: "upython"
-    - Conseguir las entradas: "upython/entradas"
-    - Programa: "upython/programa"
-    - ¿Cómo llegar?: "upython/mapa"
-    - ¿Qué es Micropython?: "upython/micropython"
-    - Repo GitHub: "https://github.com/pythoncanarias/upython"
-  PyDay Tenerife 2017:
-    - Información: "pyday"
-    - Programa: "pyday/programa"
-    - ¿Cómo llegar?: "pyday/mapa"
-    - FAQ: "pyday/faq"
-    - ¿Quieres patrocinarnos?: "https://github.com/pythoncanarias/docs/raw/master/carteleria/brochure_sponsors.pdf"
-    - Inscripción: "pyday/inscripcion"
-    - Lo que dice Twitter: "pyday/twitter"
-    - ECTS: "pyday/ects"
+  PyDay Gran Canaria 2017:
+    - Información: "pyopyo17"
+    - Reserva tu entrada: "https://www.meetup.com/es-ES/SPEGC-Sociedad-de-Promocion-Economica-de-Gran-Canaria/events/244783622/?eventId=244783622"
+    - Programa: "pyopyo17/programa"
+    - ¿Cómo llegar?: "pyopyo17/mapa"
+  Eventos anteriores: "eventos"
   Sobre nosotros: "nosotros"
 
 # Image to show in the navigation bar - image must be a square (width = height)
