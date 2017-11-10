@@ -20,7 +20,7 @@ de la [SPEGC](http://www.spegc.org/) (Infecar). Si no sabes donde es, [echa un v
 
 # Aforo limitado
 
-El aforo está limitado a 60 plazas.
+El aforo está limitado a 70 plazas.
 Para reservar tu plaza, debes apuntarte a [este meetup](https://www.meetup.com/es-ES/SPEGC-Sociedad-de-Promocion-Economica-de-Gran-Canaria/events/244783622/?eventId=244783622).
 
 # ¿Cuál es el programa?
