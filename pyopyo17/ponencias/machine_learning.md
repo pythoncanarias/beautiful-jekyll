@@ -21,3 +21,5 @@ autor:
 ---
 
 Usaremos un bonito dataset donde aplicaremos **logistic regression** para determinar la probabilidad de muerte 💀 de nuestro amigo Di'Caprio.
+
+☕️ [Enlace a la presentación](https://github.com/aalvarez/MachineLearning_Python)

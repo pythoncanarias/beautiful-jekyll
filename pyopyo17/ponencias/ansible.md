@@ -20,3 +20,5 @@ autor:
 [Ansible](https://www.ansible.com) es un sistema de gestión de la configuración, que nos proporciona de una forma simple una plataforma para administrar de forma coordinada los diferentes elementos que conforman nuestra infraestructura.
 
 Además, intentaremos dar una pincelada de diferentes aspectos, que no se suelen ver en los típicos tutoriales.
+
+☕️ [Enlace a la presentación](https://docs.google.com/presentation/d/e/2PACX-1vQqH7H3JFwncL5jwvrk1HBbewIp0gyFEnT0ERKdwu1HXThljca5sOSQm8oxx3cwYnR2h2-nnl9TaBxT/pub?start=false&loop=false&delayms=60000&slide=id.p)

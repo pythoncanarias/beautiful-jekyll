@@ -16,3 +16,5 @@ autor:
 ---
 
 Python es un lenguaje muy versátil y viene empujando para convertirse en herramienta indispensable del "Internet de las cosas". [MicroPython](http://micropython.org/) es una versión reducida de Python capaz de ejecutarse en microcontroladores, nano-ordenadores cuya principal función es controlar sensores electrónicos y señales eléctricas. Veremos las características MicroPython  y algunos ejemplos de uso.
+
+☕️ [Enlace a la presentación](https://www.slideshare.net/secret/K6w2S7zXERBBMl)
