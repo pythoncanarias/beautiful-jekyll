@@ -13,11 +13,6 @@ description: Comunidad de entusiastas del lenguaje Python.
 
 # List of links in the navigation bar
 navbar-links:
-  PyDay Gran Canaria 2017:
-    - Información: "pyopyo17"
-    - Reserva tu entrada: "https://www.meetup.com/es-ES/SPEGC-Sociedad-de-Promocion-Economica-de-Gran-Canaria/events/244783622/?eventId=244783622"
-    - Programa: "pyopyo17/programa"
-    - ¿Cómo llegar?: "pyopyo17/mapa"
   Eventos anteriores: "eventos"
   Sobre nosotros: "nosotros"
 
