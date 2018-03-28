@@ -30,3 +30,24 @@ table.agenda .detalle_track {
     font-style: italic;
     font-weight: normal;
 }
+
+table.bio {
+    border: none;
+}
+
+table.bio img {
+    border-radius: 50%;
+    border: 5px solid #3c763d4a;
+}
+
+table.bio td, table.bio tr {
+    border: none;
+}
+
+table.bio .avatar {
+    width: 200px;
+}
+
+table.bio .cv {
+    font-size: 0.9em;
+}
